@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Ron Bragaglia ✌️
 {!{blog} (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}(https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
 ![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
