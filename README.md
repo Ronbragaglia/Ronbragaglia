@@ -1,9 +1,24 @@
-## Olá! Eu sou o Ron Bragaglia ✌️
+## Olá! Seja bem-vindo ao meu GitHub 😉✌️
+- Apaixonado por tecnologia, formado em ADS, fã do universo geek.
+- 🔭 Hoje trabalho com Back End 👨‍💻
+- 🌱 Estudante da plataforma Digital Innovation one
+- 😄 Pronouns: ele/dele
+
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]https://www.youtube.com/ronebragaglia23)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]https://www.facebook.com/rone.bragaglia?mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 ![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia)](https://github.com/Ronbragaglia/github-readme-stats)
+
 ## Tecnologias que uso no meu dia
+</div><br/>
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="C#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
@@ -12,9 +27,9 @@
 <img align="center" alt="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
 <img align="center" alt="MYSQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
 </div><br/>
-Apaixonado por tecnologia, formado em ADS, fã do universo geek.
 
-- 🔭 Hoje trabalho com Back End
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+
+## E-mail para contato
+Ronebragaglia23@yahoo.com
+
 
