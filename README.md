@@ -1,6 +1,4 @@
 ## Olá! Eu sou o Ron Bragaglia ✌️
-## Contatos:
-{!{Linkedin}(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}(https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
 
 ![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&theme=dracula)
 
