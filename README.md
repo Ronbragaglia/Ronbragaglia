@@ -1,9 +1,9 @@
 ## Olá! Seja bem-vindo ao meu GitHub 😉✌️
-- Apaixonado por tecnologia, formado em ADS, fã do universo geek.
-- 🔭 Hoje trabalho com Back End 👨‍💻
-- 🌱 Estudante da plataforma Digital Innovation one
+- Sou apaixonado por tecnologia e pelo universo geek, formado em analise e desenvolvimento de sistemas, atualmente sou aluno da plataforma de estudos Digital Innovation One, estou se aperfeiçoando no back end dia após dia.
+- 🔭 Em busca de uma oportunidade back end.
+- 🌱 Estudante Pós Graduação de engenharia de software.
 
-## Formas de contato
+## Contate-me...!🤝
 </div><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
