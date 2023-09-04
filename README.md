@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo ao meu GitHub 😉✌️
-- Sou apaixonado por tecnologia e pelo universo geek, formado em analise e desenvolvimento de sistemas, atualmente sou aluno da plataforma de estudos Digital Innovation One, estou se aperfeiçoando no back end dia após dia.
+- Sou apaixonado por tecnologia e pelo universo geek, formado em analise e desenvolvimento de sistemas, estou me aperfeiçoando no back end dia após dia.
 - 🔭 Em busca de uma oportunidade back end.
-- 🌱 Estudante Pós Graduação de engenharia de software.
+- 🌱 Estudante da Plataforma de estudos Digital Innovation one.
 
 ## Contate-me...!🤝
 </div><br/>
