@@ -1,6 +1,5 @@
 ## Olá! Seja bem-vindo ao meu GitHub 😉✌️
-- Sou apaixonado por tecnologia e pelo universo geek, formado em analise e desenvolvimento de sistemas, estou me aperfeiçoando no back end dia após dia.
-- 🔭 Em busca de uma oportunidade back end.
+- Sou apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas.
 - 🌱 Estudante de Pós graduação em inteligência artifical e aprendizado de máquinas na Uninove, e estudante Pro da Plataforma de estudos Digital Innovation one.
 
 ## Contate-me...!🤝
