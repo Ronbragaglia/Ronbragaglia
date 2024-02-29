@@ -1,5 +1,5 @@
 ## Olá! Seja bem-vindo ao meu GitHub 😉✌️
-- Sou apaixonado por tecnologia,formado em analise e desenvolvimento de sistemas.
+- Sou apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas.
 - 🌱 Pós graduação em inteligência artifical e aprendizado de máquinas na Uninove, e embaixador da escola de tecnologia Digital Innovation one.
 
 ## Contate-me...!🤝
