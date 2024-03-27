@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia)](https://github.com/Ronbragaglia/github-readme-stats)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia:
 </div><br/>
 
  </div><br/>
