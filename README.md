@@ -1,8 +1,8 @@
-## Olá! Seja bem-vindo ao meu GitHub 😉✌️
-- Sou apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas.
-- 🌱 Pós graduação em inteligência artificial e aprendizado de máquinas na Uninove, e embaixador da maior escola de tecnologia, Digital Innovation One.
+## Olá! Seja bem-vindo ao meu GitHub. 😉✌️
+- Sou apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas.🧑🏻‍🎓
+- 🌱 Pós graduação em inteligência artificial e aprendizado de máquinas na Uninove, e embaixador da maior escola de tecnologia, Digital Innovation One.👨🏻‍💻
 
-## Contate-me...!🤝
+## Contate-me...!🤝👇🏼
 </div><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia)](https://github.com/Ronbragaglia/github-readme-stats)
 
 
-## Tecnologias que uso no meu dia:💻
+## Tecnologias que uso no meu dia:👨🏻‍💻🧠
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="colab"  src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
