@@ -7,13 +7,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
 
-![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&theme=dracula)
-
+![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=RonBragaglia&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia)](https://github.com/Ronbragaglia/github-readme-stats)
 
-## Tecnologias que uso no meu dia:
+## Tecnologias que uso no meu dia:💻
+<div style="display: inline_block"><br/>
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="colab"  src="https://colab.research.google.com/?utm_source=scs-index" />
 </div><br/>
-
- </div><br/>
 
 
