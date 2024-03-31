@@ -25,8 +25,6 @@
 
 </div>
 
-![Snake animation](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake-dark.svg)
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
