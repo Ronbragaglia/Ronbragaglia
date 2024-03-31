@@ -1,6 +1,7 @@
 ## Olá! Seja bem-vindo ao meu GitHub. 😉✌️
 - Sou apaixonado por tecnologia, formado em analise e desenvolvimento de sistemas.🧑🏻‍🎓
 - 🌱 Pós graduação em inteligência artificial e aprendizado de máquinas na Uninove, e embaixador da maior escola de tecnologia, Digital Innovation One.👨🏻‍💻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Contate-me...!🤝👇🏼
 </div><br/>
