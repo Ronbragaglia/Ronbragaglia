@@ -17,4 +17,18 @@
 <img align="center" alt="colab"  src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </div><br/>
 
+### GitHub Streak 🔥
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ronbragaglia&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+![Snake animation](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
+</div>
 
