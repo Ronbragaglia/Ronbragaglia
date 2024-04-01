@@ -12,6 +12,7 @@
 </div><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
+![Discord](https://img.shields.io/badge/Discord-rone4396?style=for-the-badge&logo=discord&logoColor=white/)
 
 ![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=RonBragaglia&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia)](https://github.com/Ronbragaglia/github-readme-stats)
