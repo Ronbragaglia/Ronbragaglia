@@ -15,7 +15,7 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)
 
 ![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=RonBragaglia&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia)](https://github.com/Ronbragaglia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=blue-green)](https://github.com/Ronbragaglia/github-readme-stats)
 
 
 ## Tecnologias que uso no meu dia:👨🏻‍💻🧠
