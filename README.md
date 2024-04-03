@@ -12,7 +12,6 @@
 </div><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)
 
 ![bragaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=RonBragaglia&show_icons=true&theme=radical)
 
@@ -23,6 +22,7 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="colab"  src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+<img align="center" alt="colab"  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 <img align="center" alt="colab"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div><br/>
 
