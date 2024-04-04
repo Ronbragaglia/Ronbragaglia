@@ -1,3 +1,5 @@
+<img align="right" alt="" height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReeEtEbQFfWr6Bg7opJ0kRys2swKKK5RmsdA&s">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=Ol%C3%A1%2C+eu+sou+o+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 * 🌱 Atualmente estou estudando Inteligência Artificial.🧠
