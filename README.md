@@ -8,7 +8,8 @@
 * 💬 Me pergunte sobre **I.A**😉.🧠
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Contate-me...!🤝👇🏼
+## <h3 align="left">Connect with me!🤝👇🏼
+
 </div><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
@@ -18,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=blue-green)](https://github.com/Ronbragaglia/github-readme-stats)
 
 
-## Tecnologias que uso no meu dia:👨🏻‍💻🧠
+## <h3 align="left">My Stack:👨🏻‍💻🧠
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="colab"  src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
