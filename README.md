@@ -1,6 +1,5 @@
-<img align="right" alt="" height="300px" src="https://www.designi.com.br/images/preview/11167146.jpg">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=Ol%C3%A1%2C+eu+sou+o+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+<img align="right" alt="" height="300px" src="https://www.designi.com.br/images/preview/11167146.jpg">
 
 * 🌱 Atualmente estou estudando Inteligência Artificial.🧠
 * 🚀 Meu Objetivo no futuro e me tornar um **Analista de I.A**.
