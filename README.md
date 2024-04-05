@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWeckE31BEPED6-EFRMxoeP5XrXg-jM_MWA&s">
+<img align="right" alt="" height="300px" src="https://www.designi.com.br/images/preview/11167146.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=Ol%C3%A1%2C+eu+sou+o+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
