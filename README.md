@@ -9,6 +9,11 @@
 * 💬 Me pergunte sobre **I.A**😉.🧠
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h3>☁️Software hosting:</h3>
+
+<div>
+	<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+
 ## <h3 align="left">Connect with me!🤝👇🏼
 
 </div><br/>
