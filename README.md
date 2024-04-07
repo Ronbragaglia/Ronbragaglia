@@ -15,6 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)
+<a href="https://ronbragaglia.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 ## <h3 align="left">My Stack:👨🏻‍💻🧠
 <div style="display: inline_block"><br/>
