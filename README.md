@@ -42,6 +42,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
+![](https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&label=view+on+my+profile)
 </div>
 
