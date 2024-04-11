@@ -2,9 +2,9 @@
 <img align="right" alt="" height="300px" src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966">
 
 * 🌱 "Currently, I'm studying Artificial Intelligence. 🧠
-* 🚀 My future goal is to become an AI Analyst.**.
-* 🧑‍💻 I have a degree in Systems Analysis and Development ** from ***UNINOVE*.
-* 🎓  I'm currently pursuing a Postgraduate course in Artificial Intelligence and Machine Learning ** at **Uninove**.
+* 🚀 My future goal is to become an AI Analyst.
+* 🧑‍💻 I have a degree in Systems Analysis and Development  from *UNINOVE*.
+* 🎓  I'm currently pursuing a Postgraduate course in Artificial Intelligence and Machine Learning  at *Uninove*.
 * 🏆 DIO Campus Expert Ambassador.🚀
 * 💬 Ask me about **A.I**😉.🧠
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
