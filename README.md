@@ -47,5 +47,11 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&label=view+on+my+profile)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg" alt="Snake animation" />
+
+###
+
 </div>
 
