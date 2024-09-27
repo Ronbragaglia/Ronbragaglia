@@ -3,15 +3,15 @@
 
  I am currently studying Marketing and Digital Transformation at UNINOVE. 🧠
 
-*🚀 My future goal is to become an AI analyst specializing in integrating Artificial Intelligence solutions with Digital Marketing strategies, using innovative technologies to optimize campaigns, enhance customer experience, and drive digital transformation in companies.
+🚀 My future goal is to become an AI analyst specializing in integrating Artificial Intelligence solutions with Digital Marketing strategies, using innovative technologies to optimize campaigns, enhance customer experience, and drive digital transformation in companies.
 
-*🧑‍💻 I hold a degree in Systems Analysis and Development from UNINOVE.
+🧑‍💻 I hold a degree in Systems Analysis and Development from UNINOVE.
 
-*🎓 I have completed a Postgraduate degree in Artificial Intelligence and Machine Learning from UNINOVE.
+🎓 I have completed a Postgraduate degree in Artificial Intelligence and Machine Learning from UNINOVE.
 
-*🏆 Specialist Ambassador at Campus DIO. 🚀
+🏆 Specialist Ambassador at Campus DIO. 🚀
 
-*💬 Ask me about AI 😉🧠
+💬 Ask me about AI 😉🧠
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
