@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=+Hello,+I+am+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 <img align="right" alt="" height="300px" src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966">
 
-* 🌱 "Currently, I'm studying Artificial Intelligence. 🧠
-* 🚀 My future goal is to become an AI Analyst.
-* 🧑‍💻 I have a degree in Systems Analysis and Development  from *UNINOVE*.
-* 🎓  I'm currently pursuing a Postgraduate course in Artificial Intelligence and Machine Learning  at *Uninove*.
-* 🏆 DIO Campus Expert Ambassador.🚀
-* 💬 Ask me about **A.I**😉.🧠
+* I am currently studying Marketing and Digital Transformation at UNINOVE. 🧠
+*🚀 My future goal is to become an AI analyst specializing in integrating Artificial Intelligence solutions with Digital Marketing strategies, using innovative technologies to optimize campaigns, enhance customer experience, and drive digital transformation in companies.
+*🧑‍💻 I hold a degree in Systems Analysis and Development from UNINOVE.
+*🎓 I have completed a Postgraduate degree in Artificial Intelligence and Machine Learning from UNINOVE.
+*🏆 Specialist Ambassador at Campus DIO. 🚀
+*💬 Ask me about AI 😉🧠
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h3>☁️Software hosting:</h3>
