@@ -32,7 +32,6 @@
 <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Marketing_Digital-00A7C4?style=for-the-badge&logo=Marketing&logoColor=white">
 </a>
- 
  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)
  <a href="https://www.dio.me/users/ronebragagliasso">
  <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="70">
