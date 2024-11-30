@@ -2,7 +2,7 @@
 
 <img align="right" alt="" height="300px" src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966">
 
-Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE. 🧠
+Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 
 🚀 Meu objetivo futuro é me tornar um analista de IA especializado em integrar soluções de Inteligência Artificial com estratégias de Marketing Digital, utilizando tecnologias inovadoras para otimizar campanhas, aprimorar a experiência do cliente e impulsionar a transformação digital nas empresas.
 
