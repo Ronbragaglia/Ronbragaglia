@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=+Hello,+I+am+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=+Olá,+eu+sou+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+
 <img align="right" alt="" height="300px" src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966">
 
 Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE. 🧠
@@ -25,16 +25,19 @@ Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 ## <h3 align="left">Conecte-se comigo!🤝👇🏼</h3>
 
 <div>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)  
 <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
+</a>  
 <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Marketing_Digital-00A7C4?style=for-the-badge&logo=Marketing&logoColor=white">
+</a>  
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:seuemail@gmail.com)  
+<a href="https://www.dio.me/users/ronebragagliasso">
+  <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="70">
 </a>
-</div>
+</div><br/>
 
 ## <h3 align="left">Minha Stack:👨🏻‍💻🧠</h3>
 <div style="display: inline_block"><br/>
