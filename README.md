@@ -24,28 +24,21 @@ Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 
 ## <h3 align="left">Conecte-se comigo!🤝👇🏼</h3>
 
-<div>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)  
-<a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-</a>  
-<a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Marketing_Digital-00A7C4?style=for-the-badge&logo=Marketing&logoColor=white">
-</a>  
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:seuemail@gmail.com)  
-<a href="https://www.dio.me/users/ronebragagliasso">
-  <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="70">
-</a>
 </div><br/>
 
-## <h3 align="left">Minha Stack:👨🏻‍💻🧠</h3>
-<div style="display: inline_block"><br/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="colab"  src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-<img align="center" alt="kaggle"  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-<img align="center" alt="vscode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div><br/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)
+<a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+<a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Marketing_Digital-00A7C4?style=for-the-badge&logo=Marketing&logoColor=white">
+</a>
+ [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)
+ <a href="https://www.dio.me/users/ronebragagliasso">
+ <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="70">
+</a>
+
 
 ## <h3>Estatísticas do GitHub:🔥</h3>
 
