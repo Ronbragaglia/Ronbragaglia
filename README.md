@@ -6,9 +6,9 @@ Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 
 🚀 Meu objetivo futuro é me tornar um analista de IA especializado em integrar soluções de Inteligência Artificial com estratégias de Marketing Digital, utilizando tecnologias inovadoras para otimizar campanhas, aprimorar a experiência do cliente e impulsionar a transformação digital nas empresas.
 
-🧑‍💻 Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE.
+🧑‍💻 Sou formado em Análise e desenvolvimento de sistemas pela UNINOVE.
 
-🎓 Concluí a Pós-Graduação em Inteligência Artificial e aprendizado de maquínas  pela UNINOVE.
+🎓 Concluí a Pós-Graduação em Inteligência artificial e aprendizado de maquínas  pela UNINOVE.
 
 🏆 Embaixador Especialista na plataforma DIO. 🚀
 
