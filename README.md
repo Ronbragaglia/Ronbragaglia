@@ -8,7 +8,7 @@ Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 
 🧑‍💻 Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE.
 
-🎓 Concluí a Pós-Graduação em Inteligência Artificial e Machine Learning pela UNINOVE.
+🎓 Concluí a Pós-Graduação em Inteligência Artificial e aprendizado de maquínas  pela UNINOVE.
 
 🏆 Embaixador Especialista na plataforma DIO. 🚀
 
@@ -50,7 +50,7 @@ Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&label=view+on+my+profile)
+![](https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&label=vizualizações+em+meu+perfil)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg" alt="Snake animation" />
