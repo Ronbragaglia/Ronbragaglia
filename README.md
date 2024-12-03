@@ -32,7 +32,7 @@ Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-<a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
+ <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Marketing_Digital-00A7C4?style=for-the-badge&logo=Marketing&logoColor=white">
 </a>
  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)
