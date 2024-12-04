@@ -2,28 +2,27 @@
 
 <img align="right" alt="" height="300px" src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966">
 
-Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
+🚀 My future goal is to become an AI analyst specializing in integrating Artificial Intelligence solutions with Digital Marketing strategies, using innovative technologies to optimize campaigns, enhance customer experience, and drive digital transformation in companies.
 
-🚀 Meu objetivo futuro é me tornar um analista de IA especializado em integrar soluções de Inteligência Artificial com estratégias de Marketing Digital, utilizando tecnologias inovadoras para otimizar campanhas, aprimorar a experiência do cliente e impulsionar a transformação digital nas empresas.
+🧑‍💻 I hold a degree in Systems Analysis and Development from UNINOVE.
 
-🧑‍💻 Sou formado em Análise e desenvolvimento de sistemas pela UNINOVE.
+🎓 I have completed a Postgraduate degree in Artificial Intelligence and Machine Learning from UNINOVE.
 
-🎓 Concluí a Pós-Graduação em Inteligência artificial e aprendizado de maquínas  pela UNINOVE.
+🏆 Specialist Ambassador at Campus DIO. 🚀
 
-🏆 Embaixador Especialista na plataforma DIO. 🚀
+💬 Ask me about AI.😉🧠
 
-💬 Pergunte-me sobre IA.😉🧠
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-<h3>☁️Hospedagem de Software:</h3>
+<h3>☁️Software hosting:</h3>
 
 <div>
 	<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-## <h3 align="left">Conecte-se comigo!🤝👇🏼</h3>
+## <h3 align="left">Connect with me!🤝👇🏼</h3>
 
 </div><br/>
 
@@ -41,7 +40,7 @@ Atualmente estou cursando MBA em Marketing e Transformação Digital na UNINOVE.
 </a>
 
 
-## <h3>Estatísticas do GitHub:🔥</h3>
+## <h3>:GitHub Stats🔥</h3>
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&theme=midnight-purple&count_private=true"/>
