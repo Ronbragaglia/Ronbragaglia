@@ -10,7 +10,8 @@
 
 🏆 Embaixador Especialista no Campus DIO. 🚀
 
-💬 Pergunte-me sobre **IA.**😉🧠
+💬 Pergunte-me sobre IA.😉🧠
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h3>☁Hospedagem de Software:</h3>
