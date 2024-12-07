@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
-Ronbragagglia/.github/workflows/cobrinha.yml
+![snake gif](https://github.com/Ronbragaglia/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 
 
