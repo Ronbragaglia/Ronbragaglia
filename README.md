@@ -64,7 +64,7 @@
 
 <h3 align="center">Jogo da Cobra 🐍</h3>
 <p align="center">
-  <img src="https://github.com/Ronbragaglia/snake-animation/blob/main/dist/snake.svg" alt="Snake Game" />
+  <img src="https://github.com/Ronbragaglia/Ronbragaglia/blob/output/dist/snake.svg" alt="Snake Game" />
 </p>
 
 
