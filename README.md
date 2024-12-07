@@ -63,14 +63,4 @@
 </p>
 
 
-<h3 align="center">Jogo da Cobra 🐍</h3>
-<p align="center">
-  <img src="https://github.com/Ronbragaglia/Ronbragaglia/blob/main/assets/github-contribution-snake.svg" alt="Snake Game" />
-</p>
-
-
-<h3 align="center">Visualizações do perfil 📈</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&style=flat-square&color=purple&label=Visualizações" alt="Visualizações do perfil" />
-</p>
 
