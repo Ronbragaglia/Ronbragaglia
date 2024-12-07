@@ -62,8 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
-![snake gif](https://github.com/Ronbragaglia/Ronbragaglia.github.io/raw/main/dist/github-contribution-grid-snake.svg) 
-
+ 
+https://github.com/Ronbragaglia/Ronbragaglia.github.io/raw/main/dist/github-contribution-grid-snake.svg
 
 
 
