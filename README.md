@@ -1,16 +1,11 @@
-div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <!-- Texto animado -->
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=+Olá,+Eu+sou+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=+Olá,+Eu+sou+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-    <!-- Animação GIF -->
-    <img 
-        alt="Animação" 
-        src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966"
-        style="max-width: 100%; height: auto; display: block; margin-top: 20px;"
-    />
-</div>
-
-
+<img 
+    align="right" 
+    alt="Animação" 
+    height="300px" 
+    src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966" 
+/>
 🚀 Atualmente, estou cursando uma pós-graduação em Data Science. Meu objetivo futuro é me tornar um analista de IA especializado na integração de soluções de Inteligência Artificial com estratégias de Marketing Digital, utilizando tecnologias inovadoras para otimizar campanhas, aprimorar a experiência do cliente e impulsionar a transformação digital nas empresas.
 
 🧑‍💻 Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE.
