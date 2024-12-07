@@ -62,9 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
-<h3 align="center">Jogo da Cobra 🐍</h3>
-<p align="center">
-  <img src="https://github.com/Ronbragaglia/Ronbragaglia/blob/output/dist/snake.svg" alt="Snake Game" />
-</p>
+![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/dist/snake.svg)
+
 
 
