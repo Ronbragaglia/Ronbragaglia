@@ -76,4 +76,5 @@
 
 ## 🐍 GitHub Contribution Snake Animation
 
-![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/raw/main/snake.svg)
+
