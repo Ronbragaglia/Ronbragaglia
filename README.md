@@ -1,4 +1,3 @@
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=Olá,+Eu+sou+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99" 
@@ -6,7 +5,6 @@
   />
 </a>
 
-<!-- GIF Animado -->
 <img 
   src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" 
   alt="Animação" 
