@@ -62,10 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
- # 🐍 GitHub Snake Animation
-
-Veja a animação interativa da cobra com seus commits no GitHub:
-
 ![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)
 
 
