@@ -72,10 +72,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=Visualizações+do+Perfil&color=blueviolet&style=flat" />
 
----
 
-## 🐍 GitHub Contribution Snake Animation
+
+## 🐍
 
 ![snake gif]( 
-<img src="https://raw.githubusercontent.com/wilgoncalves/wilgoncalves/output/snake.svg" alt="![snake gif](https://github.com/wilgoncalves/wilgoncalves/blob/output/github-contribution-grid-snake.svg)" />   snake.svg)
+<img src="https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg" alt="![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)" />
 
