@@ -15,11 +15,21 @@
 
 🏆 Embaixador Especialista no Campus DIO. 🚀
 
-💬 Pergunte-me sobre IA.😉🧠
+💬 Pergunte-me sobre IA. 😉🧠
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-<h3>☁Hospedagem de Software:</h3>
+---
+
+## 🐍 GitHub Contribution Snake Animation
+
+Veja abaixo a animação dos seus commits no GitHub:
+
+![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<h3>☁ Hospedagem de Software:</h3>
 
 <div>
 	<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
@@ -51,18 +61,25 @@
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  <img align="center" alt="colab" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  <img align="center" alt="colab" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
-<h3>Estatísticas do GitHub: 🔥</h3>
+---
+
+<h3>📊 Estatísticas do GitHub:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&theme=midnight-purple&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=midnight-purple&border_radius=&date_format=j%2Fn%5B%2FY%5D" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
-![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🌍 Contador de Visualizações
+
+<img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=Visualizações+do+Perfil&color=blueviolet&style=flat" />
+
 
 
 
