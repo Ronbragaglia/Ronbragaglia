@@ -59,7 +59,7 @@
 
 ---
 
-<h3>📊 Estatísticas do GitHub:</h3>
+<h3>📊 Estatísticas do GitHub:🔥</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&theme=midnight-purple&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=midnight-purple&border_radius=&date_format=j%2Fn%5B%2FY%5D" />
@@ -68,14 +68,14 @@
 
 ---
 
-## 🌍 Contador de Visualizações
+## 🌍 Visualizações em meu perfil:👀
 
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=Visualizações+do+Perfil&color=blueviolet&style=flat" />
 
 
 
 
-## 🐍
+## 🐍🐍🐍🐍🐍.. 
 
 ![snake gif](https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg)
 
