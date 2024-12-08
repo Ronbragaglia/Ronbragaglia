@@ -68,15 +68,14 @@
 
 ---
 
-## 🌍 Visualizações em meu perfil:👀
-
-<img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
 
 
-
-
-## 🐍🐍🐍🐍🐍
+## 🐍🐍🐍🐍
 
 ![snake gif](https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg)
+
+## 🌎Visitas👀:
+<img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
+
 
 
