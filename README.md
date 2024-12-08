@@ -1,15 +1,16 @@
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-    <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=Olá,+Eu+sou+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99" 
-        alt="Typing SVG" 
-    />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00B4&lines=Olá,+Eu+sou+Rone+Bragaglia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99" 
+    alt="Typing SVG" 
+  />
 </a>
 
+<!-- GIF Animado -->
 <img 
-    align="right" 
-    alt="Animação" 
-    height="300" 
-    src="https://camo.githubusercontent.com/796b0b6c040bc9164595567b33dbe1687c5c04ab09903a27b0eaedd1fd89ab3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38332f62382f30392f38336238303938353761636434316137626164343933356234373334663966632e676966"
+  src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" 
+  alt="Animação" 
+  height="300"
 />
 
 
