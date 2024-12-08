@@ -66,7 +66,8 @@
 
 Veja a animação interativa da cobra com seus commits no GitHub:
 
-![Snake Animation](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/dist/snake.svg)
+![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
