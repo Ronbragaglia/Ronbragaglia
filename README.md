@@ -21,14 +21,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
-
-Veja abaixo a animação dos seus commits no GitHub:
-
-![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <h3>☁ Hospedagem de Software:</h3>
 
 <div>
@@ -80,8 +72,8 @@ Veja abaixo a animação dos seus commits no GitHub:
 
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=Visualizações+do+Perfil&color=blueviolet&style=flat" />
 
+---
 
+## 🐍 GitHub Contribution Snake Animation
 
-
-
-
+![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)
