@@ -76,6 +76,8 @@
 
 ## 🐍
 
-![snake gif]( 
-<img src="https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg" alt="![snake gif](https://github.com/Ronbragaglia/Ronbragaglia/blob/output/github-contribution-grid-snake.svg)" />
+## 🐍
+
+![snake gif](https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg)
+
 
