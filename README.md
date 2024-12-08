@@ -11,26 +11,56 @@
   height="300"
 />
 
+---
 
-🚀 Atualmente, estou cursando uma pós-graduação em Data Science. Meu objetivo futuro é me tornar um analista de IA especializado na integração de soluções de Inteligência Artificial com estratégias de Marketing Digital, utilizando tecnologias inovadoras para otimizar campanhas, aprimorar a experiência do cliente e impulsionar a transformação digital nas empresas.
-
-🧑‍💻 Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE.
-
-🎓 Concluí a Pós-graduação em Inteligência Artificial e Machine Learning pela UNINOVE.
-
-🏆 Embaixador Especialista no Campus DIO. 🚀
-
-💬 Pergunte-me sobre IA. 😉🧠
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+👋 **Olá! Sou o Rone Bragaglia, um entusiasta de IA apaixonado por soluções inovadoras.**  
+🚀 **Objetivo:** Desenvolver sistemas inteligentes que conectem dados e decisões!  
+🌱 **Atualmente aprendendo:** IA aplicada a marketing digital e visualizações avançadas.  
+💡 **Fun Fact:** Quando não estou programando, adoro explorar música e arte.  
 
 ---
 
-<h3>☁ Hospedagem de Software:</h3>
+## 🚀 Projetos em Destaque:
 
-<div>
-	<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
-</div>
+- 🧠 **[Detecção de Fraudes com ML](https://github.com/Ronbragaglia/creditcardfraud)**  
+  Ferramenta para identificar fraudes com alto desempenho usando aprendizado supervisionado.
+
+- 👗 **[Descrição Automática de Imagens de Moda](https://github.com/Ronbragaglia/fashion-ai)**  
+  Geração automática de descrições criativas para roupas utilizando CNN e GPT-2.
+
+- 📈 **[Análise de Ações](https://github.com/Ronbragaglia/stock-analysis)**  
+  Um pipeline de análise de dados para investidores.
+
+---
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
+## 🎓 Certificados:
+
+| Curso                              | Plataforma       | Ano  |
+|------------------------------------|------------------|------|
+| Especialista em IA                 | DIO              | 2024 |
+| Modelagem e Simulação Aplicada     | UNINOVE          | 2024 |
+| Análise de Dados com Power BI      | DIO              | 2023 |
+
+---
+
+## 🛤️ Minha Jornada
+
+- **2024**: Pós-graduação em IA e Aprendizado de Máquina concluída. 🧠🎓  
+- **2023**: Início de projetos aplicados com IA para marketing. 📊  
+- **2022**: Migração da área de RH para Tecnologia. 💻  
+- **2008**: Conclusão da graduação em Administração com ênfase em RH. 🏢  
+
+---
+
+## 🏖️ Fora do Código:
+
+- 🎶 Curto criar playlists de música para momentos especiais.  
+- 🖼️ Arte e design são paixões paralelas à tecnologia.  
+- 📚 Leituras favoritas: *"Superintelligence"* e *"Thinking, Fast and Slow"*.
+
+---
 
 <h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
 <div>
@@ -43,9 +73,6 @@
   <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Marketing_Digital-00A7C4?style=for-the-badge&logo=Marketing&logoColor=white">
-  </a>
   <a href="https://mail.google.com/mail/u/1/#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
@@ -54,7 +81,10 @@
   </a>
 </div>
 
-<h3 align="left">Minha Stack: 👨🏻‍💻🧠</h3>
+---
+
+## 👨🏻‍💻 Minha Stack:
+
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -64,16 +94,15 @@
 
 ---
 
-<h3>📊 Estatísticas do GitHub:🔥</h3>
+## 📊 Estatísticas do GitHub:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&theme=midnight-purple&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=midnight-purple&border_radius=&date_format=j%2Fn%5B%2FY%5D" />
+  <img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
 ---
-
-
 
 ## 🐍🐍🐍🐍
 
