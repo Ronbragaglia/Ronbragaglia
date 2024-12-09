@@ -22,7 +22,7 @@
 
 ## 🚀 Projetos em Destaque:
 
-- 🧠 **[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
+- 🚢 **[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
    Previsão da sobrevivência de passageiros do Titanic usando **Python** e técnicas de **Machine Learning**.
 
 - 🎙️ **[Reconhecimento de Fala/Áudio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
