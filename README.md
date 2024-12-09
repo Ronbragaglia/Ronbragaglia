@@ -56,9 +56,8 @@
 
 ## 🏖️ Fora do Código:
 
-- 🎶 Curto criar playlists de música para momentos especiais.  
-- 🖼️ Arte e design são paixões paralelas à tecnologia.  
-- 📚 Leituras favoritas: *"Superintelligence"* e *"Thinking, Fast and Slow"*.
+- 🎶 Gosto de ir em festivais de música. 
+- 🖼️ Futebol, é miinha paixão paralela à tecnologia.  
 
 ---
 
@@ -73,7 +72,10 @@
   <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox">
+  <a href="https://github.com/Ronbragaglia/portfolio-marketing-digital">
+  <img src="https://img.shields.io/badge/-Marketing%20Digital-000?style=for-the-badge&logo=github&logoColor=FF00F6">
+</a>
+ <a href="https://mail.google.com/mail/u/1/#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
   <a href="https://www.dio.me/users/ronebragagliasso">
