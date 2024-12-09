@@ -17,8 +17,8 @@
 
 - 2024: Cursando Pós-graduação em data science.🧠👨‍💻
 - 2024: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓  
-- 2023: Início de projetos aplicados com IA para marketing. 📊  
-- 2022: Migração da área comercial para Tecnologia. 💻  
+- 2023: Início de projetos aplicados com IA para marketing.✔📊  
+- 2022: Migração da área comercial para Tecnologia.✔💻 
 - 2023: Conclusão da graduação em Análise e desenvolvimento de sistemas.  ✔🎓👨‍💻
 
 ##
