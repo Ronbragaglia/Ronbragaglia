@@ -51,24 +51,44 @@
 > Veja mais no meu [LinkedIn](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/).
 
 ---
+<h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
+<div>
+  <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
+  </a>
+  <a href="https://discord.com/channels/@me/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">
+  <img src="https://img.shields.io/badge/-Marketing%20Digital-000?style=for-the-badge&logo=github&logoColor=FF00F6">
+</a>
+ <a href="https://mail.google.com/mail/u/1/#inbox">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+  </a>
+  <a href="https://www.dio.me/users/ronebragagliasso">
+    <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="70">
+  </a>
+</div>
 
-## 📊 Portfólio de Marketing Digital:
+---
 
-### 🚀 **Criação de Estratégias Impactantes**
-- **Descrição:**  
-Este portfólio foi criado com foco em **impactar audiências digitais** e **potencializar marcas no mercado online**.  
-Explore análises detalhadas, dashboards interativos e **estratégias personalizadas de crescimento digital**.  
-Cada projeto é baseado em insights de mercado e apoiado por tecnologias avançadas como **Power BI**, **Google Analytics** e **ferramentas de IA**.
+## 👨🏻‍💻 Minha Stack:
 
-### 🌟 **Destaques do Portfólio:**
-1. **Análise de Engajamento nas Redes Sociais** 📊  
-   Identificação de padrões de interação e sugestões de horários para publicações.  
-2. **Campanha de E-mail Marketing Personalizada** ✉️  
-   Segmentação de público-alvo e otimização da taxa de conversão.  
-3. **Previsão de Tendências de Pesquisa** 🔍  
-   Utilização de modelos preditivos para antecipar tendências relevantes.
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
-> Veja mais no meu [Portfólio de Marketing Digital](https://ronbragaglia.github.io/portfolio-marketing-digital).
+---
+
+
+
+
 
 ---
 
