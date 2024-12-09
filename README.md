@@ -52,6 +52,22 @@
 
 ---
 
+## 🛤 Minha Jornada
+
+- *2024*: Cursando Pós-graduação em data science.🧠👨‍💻
+- *2024*: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓  
+- *2023*: Início de projetos aplicados com IA para marketing. 📊  
+- *2022*: Migração da área comercial para Tecnologia. 💻  
+- *2023*: Conclusão da graduação em Análise e desenvolvimento de sistemas.  ✔🎓👨‍💻
+
+## 🏖 Fora do Código:
+
+- 🎶 Gosto de ir em festivais de música. 
+- ⚽ Futebol, é minha paixão paralela à tecnologia.  
+
+---
+
+
 <h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
 <div>
   <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/">
