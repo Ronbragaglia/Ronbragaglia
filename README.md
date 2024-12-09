@@ -23,13 +23,13 @@
 ## 🚀 Projetos em Destaque:
 
 - 🧠 **[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
-   Previsão da sobrevivência de passageiros do Titanic com base em características como classe, sexo, tarifa e local de embarque.
-  
+   Previsão da sobrevivência de passageiros do Titanic usando **Python** e técnicas de **Machine Learning**.
+
 - 🎙️ **[Reconhecimento de Fala/Áudio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
-   Upload de áudio contendo fala (como mensagens do WhatsApp) e reconhecimento da fala no arquivo. 
+   Upload de áudio com fala e reconhecimento usando **SpeechRecognition** e **Python**.
 
 - 📈 **[Análise de Sentimentos em Avaliações de Filmes](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)**  
-   Análise de sentimentos para identificar se as avaliações de filmes são positivas ou negativas.
+   Análise de sentimentos com modelos **NLP (Natural Language Processing)** e **Sklearn**.
 
 > **Dica:** Visite os repositórios para explorar mais detalhes e resultados!
 
@@ -41,10 +41,10 @@
 
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
 |-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
-| Inteligência Artificial             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
-| Formação Machine Learning           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
-| Imersão Inteligência Artificial     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
-| Formação Cybersegurança Especialista| DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
+| ![Conquer](https://img.icons8.com/ios-filled/25/4a90e2/conquer.png) Inteligência Artificial             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
+| ![DIO](https://img.icons8.com/color/25/000000/dio-me.png) Formação Machine Learning           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
+| ![Alura](https://img.icons8.com/color/25/000000/alura.png) Imersão Inteligência Artificial     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
+| ![DIO](https://img.icons8.com/color/25/000000/dio-me.png) Formação Cybersegurança Especialista| DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
 
 > Explore os detalhes de cada curso clicando nos links dos certificados.
 
@@ -67,7 +67,6 @@
 
 ---
 
-
 <h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
 <div>
   <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/">
@@ -82,7 +81,7 @@
   <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">
   <img src="https://img.shields.io/badge/-Marketing%20Digital-000?style=for-the-badge&logo=github&logoColor=FF00F6">
 </a>
- <a href="https://mail.google.com/mail/u/1/#inbox">
+ <a href="mailto:ronbragaglia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
   <a href="https://www.dio.me/users/ronebragagliasso">
