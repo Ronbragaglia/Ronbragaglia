@@ -23,15 +23,15 @@
 ## 🚀 Projetos em Destaque:
 
 - 🧠 **[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
-   Este projeto utiliza aprendizado de máquina para prever a sobrevivência dos passageiros do Titanic com base em características como classe do passageiro, sexo, tarifa paga e local de embarque.
+   Previsão da sobrevivência de passageiros do Titanic com base em características como classe, sexo, tarifa e local de embarque.
   
-- 👗 **[Reconhecimento de Fala/Áudio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
-   Este código permite que você faça o upload de um arquivo de áudio contendo fala, como um arquivo do WhatsApp, e realiza o reconhecimento da fala presente nesse arquivo. 
+- 🎙️ **[Reconhecimento de Fala/Áudio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
+   Upload de áudio contendo fala (como mensagens do WhatsApp) e reconhecimento da fala no arquivo. 
 
 - 📈 **[Análise de Sentimentos em Avaliações de Filmes](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)**  
-   O código realiza a análise de sentimentos das avaliações fornecidas, determinando se o sentimento expresso é positivo ou negativo.
+   Análise de sentimentos para identificar se as avaliações de filmes são positivas ou negativas.
 
-> **Dica:** Visite os repositórios para ver capturas de tela e resultados detalhados!
+> **Dica:** Visite os repositórios para explorar mais detalhes e resultados!
 
 ---
 
@@ -52,55 +52,23 @@
 
 ---
 
-## 🛤️ Minha Jornada
+## 📊 Portfólio de Marketing Digital:
 
-- **2024**: Cursando Pós-graduação em Data Science. 🧠👨‍💻  
-- **2024**: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🎓  
-- **2023**: Projetos aplicados com IA para marketing iniciados. 📊  
-- **2022**: Migração da área comercial para Tecnologia. 💻  
-- **2023**: Graduação em Análise e Desenvolvimento de Sistemas concluída. ✔🎓👨‍💻
+### 🚀 **Criação de Estratégias Impactantes**
+- **Descrição:**  
+Este portfólio foi criado com foco em **impactar audiências digitais** e **potencializar marcas no mercado online**.  
+Explore análises detalhadas, dashboards interativos e **estratégias personalizadas de crescimento digital**.  
+Cada projeto é baseado em insights de mercado e apoiado por tecnologias avançadas como **Power BI**, **Google Analytics** e **ferramentas de IA**.
 
----
+### 🌟 **Destaques do Portfólio:**
+1. **Análise de Engajamento nas Redes Sociais** 📊  
+   Identificação de padrões de interação e sugestões de horários para publicações.  
+2. **Campanha de E-mail Marketing Personalizada** ✉️  
+   Segmentação de público-alvo e otimização da taxa de conversão.  
+3. **Previsão de Tendências de Pesquisa** 🔍  
+   Utilização de modelos preditivos para antecipar tendências relevantes.
 
-## 🏖️ Fora do Código:
-
-- 🎶 Exploro novos estilos musicais e participo de festivais.  
-- ⚽ Minha paixão paralela à tecnologia é o futebol!  
-
----
-
-<h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
-<div>
-  <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
-  </a>
-  <a href="https://discord.com/channels/@me/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Veja%20meu%20Portfólio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-  <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">
-  <img src="https://img.shields.io/badge/-Marketing%20Digital-000?style=for-the-badge&logo=github&logoColor=FF00F6">
-</a>
- <a href="https://mail.google.com/mail/u/1/#inbox">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
-  </a>
-  <a href="https://www.dio.me/users/ronebragagliasso">
-    <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="70">
-  </a>
-</div>
-
----
-
-## 👨🏻‍💻 Minha Stack:
-
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  <img align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
+> Veja mais no meu [Portfólio de Marketing Digital](https://ronbragaglia.github.io/portfolio-marketing-digital).
 
 ---
 
@@ -122,6 +90,7 @@
 
 ## 🌎 Visitas 👀:
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
+
 
 
 
