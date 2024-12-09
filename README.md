@@ -15,21 +15,21 @@
 
 👋 **Olá! Sou o Rone Bragaglia, um entusiasta de IA apaixonado por soluções inovadoras.**  
 🚀 **Objetivo:** Desenvolver sistemas inteligentes que conectem dados e decisões!  
-🌱 **Atualmente aprendendo:** IA aplicada a marketing digital e visualizações avançadas.  
-💡 **Fun Fact:** Quando não estou programando, adoro explorar música e arte.  
+🌱 **Atualmente aprendendo:** IA aplicada a marketing digital e data science em  visualizações avançadas.  
+💡 **Fun Fact:** Quando não estou programando, adoro explorar música.  
 
 ---
 
 ## 🚀 Projetos em Destaque:
 
-- 🧠 **[Detecção de Fraudes com ML](https://github.com/Ronbragaglia/creditcardfraud)**  
-  Ferramenta para identificar fraudes com alto desempenho usando aprendizado supervisionado.
+- 🧠 **[Sobreviventes Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
+  .Este projeto utiliza aprendizado de máquina para prever a sobrevivência dos passageiros do Titanic com base em características como classe do passageiro, sexo, tarifa paga e local de embarque.
+  
+- 👗 **[Reconhecimento de fala/audio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
+ .Este código permite que você faça o upload de um arquivo de áudio contendo fala, como um arquivo de áudio do WhatsApp, e realiza o reconhecimento da fala presente nesse arquivo. 
 
-- 👗 **[Descrição Automática de Imagens de Moda](https://github.com/Ronbragaglia/fashion-ai)**  
-  Geração automática de descrições criativas para roupas utilizando CNN e GPT-2.
-
-- 📈 **[Análise de Ações](https://github.com/Ronbragaglia/stock-analysis)**  
-  Um pipeline de análise de dados para investidores.
+- 📈 **[Sentimento cinematográfico](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)**  
+ o código realiza a análise de sentimentos das avaliações fornecidas, que são sobre filmes. Cada avaliação é analisada para determinar se o sentimento expresso é positivo ou negativo.
 
 ---
 
@@ -39,18 +39,20 @@
 
 | Curso                              | Plataforma       | Ano  |
 |------------------------------------|------------------|------|
-| Especialista em IA                 | DIO              | 2024 |
-| Modelagem e Simulação Aplicada     | UNINOVE          | 2024 |
-| Análise de Dados com Power BI      | DIO              | 2023 |
+| Inteligência Artificial            | CONQUER          | 2024 |
+| Formação machine learning          | DIO              | 2024 |
+| Imersão Inteligência Artificial    | ALURA            | 2024 |
+|Formação cybersegurança especialista| DIO              | 2024 |
 
 ---
 
 ## 🛤️ Minha Jornada
 
-- **2024**: Pós-graduação em IA e Aprendizado de Máquina concluída. 🧠🎓  
+- **2024**: Cursando Pós-graduação em data science.🧠👨‍💻
+- **2024**: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓  
 - **2023**: Início de projetos aplicados com IA para marketing. 📊  
-- **2022**: Migração da área de RH para Tecnologia. 💻  
-- **2008**: Conclusão da graduação em Administração com ênfase em RH. 🏢  
+- **2022**: Migração da área comercial para Tecnologia. 💻  
+- **2023**: Conclusão da graduação em Análise e desenvolvimento de sistemas.  ✔🎓👨‍💻
 
 ---
 
