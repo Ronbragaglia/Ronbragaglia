@@ -73,7 +73,6 @@
   </a>
 </div>
 
----
 
 ## 👨🏻‍💻 Minha Stack:
 
@@ -84,14 +83,6 @@
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
----
-
-
-
-
-
----
-
 ## 📊 Estatísticas do GitHub:
 
 <p align="center">
@@ -100,13 +91,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
----
 
 ## 🐍🐍🐍🐍
 
 ![snake gif](https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg)
-
----
 
 ## 🌎 Visitas 👀:
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
