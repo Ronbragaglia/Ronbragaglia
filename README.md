@@ -59,7 +59,7 @@
 ## 🏖️ Fora do Código:
 
 - 🎶 Gosto de ir em festivais de música. 
-- 🖼️ Futebol, é miinha paixão paralela à tecnologia.  
+- ⚽ Futebol, é minha paixão paralela à tecnologia.  
 
 ---
 
