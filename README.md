@@ -19,13 +19,15 @@
 💡 *Fun Fact:* Além de programar, adoro explorar novos estilos musicais e criar playlists inspiradoras.  
 
 ---
-## 🛤 Minha Jornada
+## 📚 Minha Jornada
 
 - 2024: Cursando Pós-graduação em data science.🧠👨‍💻
 - 2024: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓  
 - 2023: Início de projetos aplicados com IA para marketing. 📊  
 - 2022: Migração da área comercial para Tecnologia. 💻  
 - 2023: Conclusão da graduação em Análise e desenvolvimento de sistemas.  ✔🎓👨‍💻
+
+##
 
 📌 Meta Pessoal para 2025
 "Minha meta é publicar dois papers sobre inteligência artificial em revistas especializadas e contribuir para projetos de código aberto na área de IA."
@@ -60,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 
-## 🎓 Certificados:
+## 🏅 Certificados:
 
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
 |-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
@@ -116,7 +118,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
 
-## 🐍🐍🐍🐍
+## 🐍Snake Animation
 
 ![snake gif](https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg)
 
