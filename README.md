@@ -13,10 +13,13 @@
 
 ---
 
-👋 *Olá! Sou o Rone Bragaglia, um entusiasta de IA apaixonado por soluções inovadoras.*  
-🚀 *Objetivo:* Aplicar inteligência artificial para impactar diretamente a vida das pessoas e negócios!  
-🌱 *Atualmente aprendendo:* IA aplicada ao marketing digital e visualizações avançadas em data science.  
-💡 *Fun Fact:* Além de programar, adoro explorar novos estilos musicais e criar playlists inspiradoras.  
+👋 Olá! Sou o Rone Bragaglia, um Criador de Soluções Inteligentes e Orientadas por Dados. 
+🚀 Minha missão: Aplicar inteligência artificial para impactar diretamente a vida das pessoas e negócios, combinando inovação e propósito. 
+🌱 O que estou explorando agora: Pós-graduação em Data Science, onde estou desenvolvendo ideias incríveis para transformar dados em insights estratégicos.
+IA aplicada ao marketing digital e visualizações avançadas que contam histórias poderosas com dados.
+
+📈 Vamos transformar o futuro juntos?
+"Estou sempre aberto a colaborar em projetos desafiadores e inovadores que fazem a diferença."
 
 ---
 ## 📚 Minha Jornada
@@ -32,10 +35,10 @@
 📌 Meta Pessoal para 2025
 "Minha meta é publicar dois papers sobre inteligência artificial em revistas especializadas e contribuir para projetos de código aberto na área de IA."
 
-## 🏖 Fora do Código:
+## 💡 Quem sou eu além do código?
 
-- 🎶 Gosto de ir em festivais de música. 
-- ⚽ Futebol, é minha paixão paralela à tecnologia.  
+- 🎶🎧 Apaixonado por música, adoro criar playlists temáticas que unem foco e inspiração.
+- ✈️ Sempre em busca de novas ideias e perspectivas, explorando culturas e aprendendo com elas. 
 
 ## 🚀 Projetos em Destaque:
 
