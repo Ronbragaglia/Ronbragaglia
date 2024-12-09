@@ -42,10 +42,10 @@
 
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
 |-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
-| ![Conquer](https://img.shields.io/badge/Conquer-Amarelo?style=for-the-badge&logo=data:image/svg+xml;base64,PHNJTiBTTUwgdmVyc2lvbj0iMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4PSJodHRwOi8vZXhhbXBsZS5jb20vWFhtbEV4YW1wbGVzLzEiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwIDIwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48L3N2Zz4=) **Inteligência Artificial**             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
-| ![DIO](https://img.shields.io/badge/DIO-Roxo?style=for-the-badge&logo=dev.to) **Formação Machine Learning**           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
-| ![Alura](https://img.shields.io/badge/Alura-Azul?style=for-the-badge&logo=Alura) **Imersão Inteligência Artificial**     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
-| ![DIO](https://img.shields.io/badge/DIO-Roxo?style=for-the-badge&logo=dev.to) **Formação Cybersegurança Especialista**| DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
+| <img src="https://img.shields.io/badge/Conquer-Amarelo?style=flat&logo=Conquer&logoColor=black" alt="Conquer" height="20"> **Inteligência Artificial**             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
+| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> **Formação Machine Learning**           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
+| <img src="https://img.shields.io/badge/Alura-Azul?style=flat&logo=Alura&logoColor=white" alt="Alura" height="20"> **Imersão Inteligência Artificial**     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
+| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> **Formação Cybersegurança Especialista**| DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
 
 
 
