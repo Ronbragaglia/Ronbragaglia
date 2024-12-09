@@ -27,6 +27,9 @@
 - *2022*: Migração da área comercial para Tecnologia. 💻  
 - *2023*: Conclusão da graduação em Análise e desenvolvimento de sistemas.  ✔🎓👨‍💻
 
+📌 Meta Pessoal para 2025
+"Minha meta é publicar dois papers sobre inteligência artificial em revistas especializadas e contribuir para projetos de código aberto na área de IA."
+
 ## 🏖 Fora do Código:
 
 - 🎶 Gosto de ir em festivais de música. 
@@ -112,6 +115,9 @@
 
 ## 🌎 Visitas 👀:
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
+
+🤝 Call to Action
+"Se você tem uma oportunidade ou apenas deseja trocar ideias sobre tecnologia, IA ou inovação, não hesite em entrar em contato comigo!"
 
 
 
