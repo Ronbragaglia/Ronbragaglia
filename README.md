@@ -8,28 +8,30 @@
 <img 
   src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" 
   alt="Animação" 
-  height="300"
+  height="250"
 />
 
 ---
 
 👋 **Olá! Sou o Rone Bragaglia, um entusiasta de IA apaixonado por soluções inovadoras.**  
-🚀 **Objetivo:** Desenvolver sistemas inteligentes que conectem dados e decisões!  
-🌱 **Atualmente aprendendo:** IA aplicada a marketing digital e data science em  visualizações avançadas.  
-💡 **Fun Fact:** Quando não estou programando, adoro explorar música.  
+🚀 **Objetivo:** Aplicar inteligência artificial para impactar diretamente a vida das pessoas e negócios!  
+🌱 **Atualmente aprendendo:** IA aplicada ao marketing digital e visualizações avançadas em data science.  
+💡 **Fun Fact:** Além de programar, adoro explorar novos estilos musicais e criar playlists inspiradoras.  
 
 ---
 
 ## 🚀 Projetos em Destaque:
 
-- 🧠 **[Sobreviventes Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
-  .Este projeto utiliza aprendizado de máquina para prever a sobrevivência dos passageiros do Titanic com base em características como classe do passageiro, sexo, tarifa paga e local de embarque.
+- 🧠 **[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
+   Este projeto utiliza aprendizado de máquina para prever a sobrevivência dos passageiros do Titanic com base em características como classe do passageiro, sexo, tarifa paga e local de embarque.
   
-- 👗 **[Reconhecimento de fala/audio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
- .Este código permite que você faça o upload de um arquivo de áudio contendo fala, como um arquivo de áudio do WhatsApp, e realiza o reconhecimento da fala presente nesse arquivo. 
+- 👗 **[Reconhecimento de Fala/Áudio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
+   Este código permite que você faça o upload de um arquivo de áudio contendo fala, como um arquivo do WhatsApp, e realiza o reconhecimento da fala presente nesse arquivo. 
 
-- 📈 **[Sentimento cinematográfico](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)**  
- o código realiza a análise de sentimentos das avaliações fornecidas, que são sobre filmes. Cada avaliação é analisada para determinar se o sentimento expresso é positivo ou negativo.
+- 📈 **[Análise de Sentimentos em Avaliações de Filmes](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)**  
+   O código realiza a análise de sentimentos das avaliações fornecidas, determinando se o sentimento expresso é positivo ou negativo.
+
+> **Dica:** Visite os repositórios para ver capturas de tela e resultados detalhados!
 
 ---
 
@@ -37,29 +39,31 @@
 
 ## 🎓 Certificados:
 
-| Curso                              | Plataforma       | Ano  |
-|------------------------------------|------------------|------|
-| Inteligência Artificial            | CONQUER          | 2024 |
-| Formação machine learning          | DIO              | 2024 |
-| Imersão Inteligência Artificial    | ALURA            | 2024 |
-|Formação cybersegurança especialista| DIO              | 2024 |
+| Curso                               | Plataforma       | Ano  |
+|-------------------------------------|------------------|------|
+| Inteligência Artificial             | CONQUER          | 2024 |
+| Formação Machine Learning           | DIO              | 2024 |
+| Imersão Inteligência Artificial     | ALURA            | 2024 |
+| Formação Cybersegurança Especialista| DIO              | 2024 |
+
+> Veja mais no meu [LinkedIn](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/).
 
 ---
 
 ## 🛤️ Minha Jornada
 
-- **2024**: Cursando Pós-graduação em data science.🧠👨‍💻
-- **2024**: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓  
-- **2023**: Início de projetos aplicados com IA para marketing. 📊  
+- **2024**: Cursando Pós-graduação em Data Science. 🧠👨‍💻  
+- **2024**: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🎓  
+- **2023**: Projetos aplicados com IA para marketing iniciados. 📊  
 - **2022**: Migração da área comercial para Tecnologia. 💻  
-- **2023**: Conclusão da graduação em Análise e desenvolvimento de sistemas.  ✔🎓👨‍💻
+- **2023**: Graduação em Análise e Desenvolvimento de Sistemas concluída. ✔🎓👨‍💻
 
 ---
 
 ## 🏖️ Fora do Código:
 
-- 🎶 Gosto de ir em festivais de música. 
-- ⚽ Futebol, é minha paixão paralela à tecnologia.  
+- 🎶 Exploro novos estilos musicais e participo de festivais.  
+- ⚽ Minha paixão paralela à tecnologia é o futebol!  
 
 ---
 
@@ -72,7 +76,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Veja%20meu%20Portfólio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">
   <img src="https://img.shields.io/badge/-Marketing%20Digital-000?style=for-the-badge&logo=github&logoColor=FF00F6">
@@ -112,8 +116,11 @@
 
 ![snake gif](https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg)
 
-## 🌎Visitas👀:
+---
+
+## 🌎 Visitas 👀:
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
+
 
 
 
