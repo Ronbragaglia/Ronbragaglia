@@ -38,17 +38,19 @@
 ## 🚀 Projetos em Destaque:
 
 - 🚢 **[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)**  
-   Previsão da sobrevivência de passageiros do Titanic usando **Python** e técnicas de **Machine Learning**.
+   Análise de dados históricos para prever a sobrevivência com alta acurácia utilizando XGBoost e técnicas avançadas de aprendizado de máquina.**.
 
 - 🎙️ **[Reconhecimento de Fala/Áudio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)**  
-   Upload de áudio com fala e reconhecimento usando **SpeechRecognition** e **Python**.
+   Desenvolvimento de um sistema capaz de transcrever áudios com suporte para múltiplos idiomas usando SpeechRecognition e Python.
 
 - 📈 **[Análise de Sentimentos em Avaliações de Filmes](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)**  
-   Análise de sentimentos com modelos **NLP (Natural Language Processing)** e **Sklearn**.
+   Análise de sentimentos em críticas de filmes com modelos de Processamento de Linguagem Natural (NLP), combinados com Sklearn para classificação precisa.**.
 
 -  **[Simulador de epidemias probabilidade de infecção](https://github.com/Ronbragaglia/Simulador-de-Epidemias-Probabilidade-de-Infec-o)**
 
-Este projeto simula a propagação de uma doença infecciosa em uma população fixa de 1000 pessoas ao longo de 30 dias, com uma probabilidade de infecção pré-definida. O objetivo é analisar como a infecção se propaga com o tempo e calcular a probabilidade de mais de 50% da população ser infectada ao final do período de simulação.**
+   Este projeto simula a propagação de uma doença infecciosa em uma população fixa de 1000 pessoas ao longo de 30 dias, com uma 
+   probabilidade de infecção pré-definida. O objetivo é analisar como a infecção se propaga com o tempo e calcular a probabilidade de 
+   mais de 50% da população ser infectada ao final do período de simulação.**
   
 
 > **Dica:** Visite os repositórios para explorar mais detalhes e resultados!
