@@ -45,7 +45,7 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 - 📈 *[Análise de Sentimentos em Avaliações de Filmes](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)*  
    Análise de sentimentos em críticas de filmes com modelos de Processamento de Linguagem Natural (NLP), combinados com Sklearn para classificação precisa..
 
--  *[Simulador de epidemias probabilidade de infecção](https://github.com/Ronbragaglia/Simulador-de-Epidemias-Probabilidade-de-Infec-o)*
+- 👨‍🔬 *[Simulador de epidemias probabilidade de infecção](https://github.com/Ronbragaglia/Simulador-de-Epidemias-Probabilidade-de-Infec-o)*
 
    Este projeto simula a propagação de uma doença infecciosa em uma população fixa de 1000 pessoas ao longo de 30 dias, com uma 
    probabilidade de infecção pré-definida. O objetivo é analisar como a infecção se propaga com o tempo e calcular a probabilidade de 
