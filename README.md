@@ -46,6 +46,10 @@
 - 📈 **[Análise de Sentimentos em Avaliações de Filmes](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)**  
    Análise de sentimentos com modelos **NLP (Natural Language Processing)** e **Sklearn**.
 
+-  **[Simulador de epidemias probabilidade de infecção](https://github.com/Ronbragaglia/Simulador-de-Epidemias-Probabilidade-de-Infec-o)**
+  Este projeto simula a propagação de uma doença infecciosa em uma população fixa de 1000 pessoas ao longo de 30 dias, com uma probabilidade de infecção pré-definida. O objetivo é analisar como a infecção se propaga com o tempo e calcular a probabilidade de mais de 50% da população ser infectada ao final do período de simulação.**
+  
+
 > **Dica:** Visite os repositórios para explorar mais detalhes e resultados!
 
 ---
