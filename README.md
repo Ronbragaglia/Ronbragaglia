@@ -72,7 +72,7 @@
   <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://github.com/Ronbragaglia/portfolio-marketing-digital">
+  <a href="https://github.com/Ronbragaglia/portfolio-marketing-digital./">
   <img src="https://img.shields.io/badge/-Marketing%20Digital-000?style=for-the-badge&logo=github&logoColor=FF00F6">
 </a>
  <a href="https://mail.google.com/mail/u/1/#inbox">
