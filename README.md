@@ -13,11 +13,12 @@
 
 ---
 
-👋 Olá! Sou o Rone Bragaglia, um Criador de Soluções Inteligentes e Orientadas por Dados. 
-🚀 Minha missão: Aplicar inteligência artificial para impactar diretamente a vida das pessoas e negócios, combinando inovação e propósito. 
-🌱 O que estou explorando agora: 
-   Pós-graduação em Data Science, onde estou desenvolvendo ideias incríveis para transformar dados em insights estratégicos.
-   IA aplicada ao marketing digital e visualizações avançadas que contam histórias poderosas com dados.
+👋 *Olá! Sou o Rone Bragaglia, um Criador de Soluções Inteligentes e Orientadas por Dados!*  
+🚀 *Minha missão:*Aplicar inteligência artificial para impactar diretamente a vida das pessoas e negócios, combinando inovação e propósito.
+🌱 *O que estou explorando agora:* Pós-graduação em Data Science, onde estou desenvolvendo ideias incríveis para transformar dados em insights estratégicos.
+IA aplicada ao marketing digital e visualizações avançadas que contam histórias poderosas com dados.
+ 
+
 
 📈 Vamos transformar o futuro juntos?
 "Estou sempre aberto a colaborar em projetos desafiadores e inovadores que fazem a diferença."
