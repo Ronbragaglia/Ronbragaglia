@@ -40,7 +40,7 @@
 ## 🎓 Certificados:
 
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
-|-------------------------------------|------------------|------|-----------------------------------------------------------------------
+|-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
 | Inteligência Artificial             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
 | Formação Machine Learning           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
 | Imersão Inteligência Artificial     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
@@ -51,6 +51,7 @@
 > Veja mais no meu [LinkedIn](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/).
 
 ---
+
 <h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
 <div>
   <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/">
