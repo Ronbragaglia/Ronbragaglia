@@ -39,12 +39,15 @@
 
 ## 🎓 Certificados:
 
+## 🎓 Certificados:
+
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
 |-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
-| ![Conquer](https://img.icons8.com/ios-filled/25/4a90e2/conquer.png) Inteligência Artificial             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
-| ![DIO](https://img.icons8.com/color/25/000000/dio-me.png) Formação Machine Learning           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
-| ![Alura](https://img.icons8.com/color/25/000000/alura.png) Imersão Inteligência Artificial     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
-| ![DIO](https://img.icons8.com/color/25/000000/dio-me.png) Formação Cybersegurança Especialista| DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
+| ![Conquer](https://img.shields.io/badge/Conquer-000000?style=flat&logo=Conquer&logoColor=white) Inteligência Artificial             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
+| ![DIO](https://img.shields.io/badge/DIO-000000?style=flat&logo=dev.to&logoColor=white) Formação Machine Learning           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
+| ![Alura](https://img.shields.io/badge/Alura-000000?style=flat&logo=Alura&logoColor=white) Imersão Inteligência Artificial     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
+| ![DIO](https://img.shields.io/badge/DIO-000000?style=flat&logo=dev.to&logoColor=white) Formação Cybersegurança Especialista| DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
+
 
 > Explore os detalhes de cada curso clicando nos links dos certificados.
 
