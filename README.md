@@ -40,7 +40,7 @@
 ## 🎓 Certificados:
 
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
-|-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
+|-------------------------------------|------------------|------|-----------------------------------------------------------------------
 | Inteligência Artificial             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
 | Formação Machine Learning           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
 | Imersão Inteligência Artificial     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
@@ -73,7 +73,6 @@
   </a>
 </div>
 
-
 ## 👨🏻‍💻 Minha Stack:
 
 <div style="display: inline_block">
@@ -90,7 +89,6 @@
   <img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
 </p>
-
 
 ## 🐍🐍🐍🐍
 
