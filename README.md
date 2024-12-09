@@ -23,14 +23,16 @@
 
 ##
 
-📌 Meta Pessoal para 2025
+📌 Meta Pessoal para 2025 📚:
 "Minha meta é publicar dois papers sobre inteligência artificial em revistas especializadas e contribuir para projetos de código aberto na área de IA."
 
-📈 Vamos transformar o futuro juntos? "Estou sempre aberto a colaborar em projetos desafiadores e inovadores que fazem a diferença."
 ## 💡 Quem sou eu além do código?
 
 - 🎶🎧 Apaixonado por música, adoro criar playlists temáticas que unem foco e inspiração.
-- ✈️ Sempre em busca de novas ideias e perspectivas, explorando culturas e aprendendo com elas. 
+- ✈️ Sempre em busca de novas ideias e perspectivas, explorando culturas e aprendendo com elas.
+
+Sugestões de Estilo:
+Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e ciência de dados para resolver problemas reais!
 
 ## 🚀 Projetos em Destaque:
 
