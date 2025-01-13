@@ -77,6 +77,9 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 ---
 <h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
 <div>
+  <a href="https://wa.me/5511954092078" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FF00F6&color:FFF">
+</a>
   <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
   </a>
