@@ -114,9 +114,9 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 ## 📊 Estatísticas do GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&theme=midnight-purple&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=donut&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&theme=midnight-purple&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronbragaglia&theme=midnight-purple" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=compact&hide=jupyter%20notebook" alt="Linguagens Mais Usadas"/>
 </p>
 
 ## 🐍Snake Animation
