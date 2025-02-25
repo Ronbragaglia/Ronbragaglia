@@ -22,9 +22,9 @@
 
 • 2023: Início de projetos aplicados com IA para marketing.✔📊
 
-• 2022: Migração da área comercial para Tecnologia.✔💻
-
 • 2023: Conclusão da graduação em Análise e Desenvolvimento de Sistemas.  ✔🎓👨‍💻
+
+• 2022: Migração da área comercial para Tecnologia.✔💻
 
 ##
 
