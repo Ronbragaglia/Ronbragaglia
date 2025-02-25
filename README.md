@@ -60,6 +60,8 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 
 ## 🏅 Certificados:
 
+IA & Machine Learning
+
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
 |-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
 | <img src="https://img.shields.io/badge/Conquer-Amarelo?style=flat&logo=Conquer&logoColor=black" alt="Conquer" height="20"> *Inteligência Artificial*             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
