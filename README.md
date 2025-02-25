@@ -14,17 +14,17 @@
 ---
 
 ## 📚 Minha Jornada
-○ 2025: Membro do PUC Angels – Educação, Networking e Conhecimento impulsionando o Empreendedorismo. 🤝🚀
+• 2025: Membro do PUC Angels – Educação, Networking e Conhecimento impulsionando o Empreendedorismo. 🤝🚀
 
-◉2025: Embaixador da DIO – Contribuindo para a capacitação de profissionais e inovação no setor tech. 🎓🔥
+• 2025: Embaixador da DIO – Contribuindo para a capacitação de profissionais e inovação no setor tech. 🎓🔥
 
-◉2024: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓
+• 2024: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓
 
-◉2023: Início de projetos aplicados com IA para marketing.✔📊
+• 2023: Início de projetos aplicados com IA para marketing.✔📊
 
-◉2022: Migração da área comercial para Tecnologia.✔💻
+• 2022: Migração da área comercial para Tecnologia.✔💻
 
-◉2023: Conclusão da graduação em Análise e Desenvolvimento de Sistemas.  ✔🎓👨‍💻
+• 2023: Conclusão da graduação em Análise e Desenvolvimento de Sistemas.  ✔🎓👨‍💻
 
 ##
 
