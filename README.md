@@ -60,7 +60,7 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 
 ## 🏅 Certificados:
 
-IA & Machine Learning
+
 
 | Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
 |-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
