@@ -14,7 +14,6 @@
 ---
 
 ## 📚 Minha Jornada
-• 2025: Membro do PUC Angels – Educação, Networking e Conhecimento impulsionando o Empreendedorismo. 🤝🚀
 
 • 2025: Embaixador da DIO – Contribuindo para a capacitação de profissionais e inovação no setor tech. 🎓🔥
 
