@@ -42,6 +42,13 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 
 ## 🚀 Projetos em Destaque:
 
+- 🌌 Cinétria - Mundo de Bob
+Plataforma transmídia com IA generativa
+→ Personagem "Bob" com 4 vozes temáticas adaptáveis
+→ Boxes colecionáveis cruzando universos (ex: "Matrix & Apocalipse")
+→ Cards NFT com realidade aumentada
+→ Tecnologias: OpenAI, ElevenLabs, React, Web3
+
 - 🚢 *[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)*  
    Análise de dados históricos para prever a sobrevivência com alta acurácia utilizando XGBoost e técnicas avançadas de aprendizado de máquina..
 
