@@ -15,6 +15,8 @@
 
 ## 📚 Minha Jornada
 
+• 2025: Fundador & Diretor Criativo — Cinétria | Mundo de Bob
+
 • 2025: Embaixador da DIO – Contribuindo para a capacitação de profissionais e inovação no setor tech. 🎓🔥
 
 • 2024: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓
@@ -27,8 +29,8 @@
 
 ##
 
-📌 Meta Pessoal para 2025 📚:
-"Minha meta é publicar dois papers sobre inteligência artificial em revistas especializadas e contribuir para projetos de código aberto na área de IA."
+📌 Meta Pessoal para 2025 :
+" Criar a primeira franquia transmídia do Brasil onde futebol, cultura pop e espiritualidade se fundem através de IA generativa, estabelecendo novo padrão de entretenimento com propósito."
 
 ## 💡 Quem sou eu além do código?
 
