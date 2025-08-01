@@ -13,73 +13,70 @@
 
 ---
 
-## 📚 Minha Jornada
+## 🚀 Sobre Mim
 
-• 2025: Fundador & Diretor Criativo — Cinétria | Mundo de Bob
-
-• 2025: Embaixador da DIO – Contribuindo para a capacitação de profissionais e inovação no setor tech. 🎓🔥
-
-• 2024: Pós-graduado em IA e Aprendizado de Máquina concluída. ✔🧠🎓
-
-• 2023: Início de projetos aplicados com IA para marketing.✔📊
-
-• 2023: Conclusão da graduação em Análise e Desenvolvimento de Sistemas.  ✔🎓👨‍💻
-
-• 2022: Migração da área comercial para Tecnologia.✔💻
-
-##
-
-📌 Meta Pessoal para 2025 :
-" Criar a primeira franquia transmídia do Brasil onde futebol, cultura pop e espiritualidade se fundem através de IA generativa, estabelecendo novo padrão de entretenimento com propósito."
-
-## 💡 Quem sou eu além do código?
-
-- 🎶🎧 Apaixonado por música, adoro criar playlists temáticas que unem foco e inspiração.
-- ✈️ Sempre em busca de novas ideias e perspectivas, explorando culturas e aprendendo com elas.
-
-Sugestões de Estilo:
-Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e ciência de dados para resolver problemas reais!
-
-## 🚀 Projetos em Destaque:
-
-- 🚢 *[Predição de Sobreviventes do Titanic](https://github.com/Ronbragaglia/Sobreviventes-titanic)*  
-   Análise de dados históricos para prever a sobrevivência com alta acurácia utilizando XGBoost e técnicas avançadas de aprendizado de máquina..
-
-- 🎙 *[Reconhecimento de Fala/Áudio](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)*  
-   Desenvolvimento de um sistema capaz de transcrever áudios com suporte para múltiplos idiomas usando SpeechRecognition e Python.
-
-- 📈 *[Análise de Sentimentos em Avaliações de Filmes](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)*  
-   Análise de sentimentos em críticas de filmes com modelos de Processamento de Linguagem Natural (NLP), combinados com Sklearn para classificação precisa..
-
-- 👨‍🔬 *[Simulador de epidemias probabilidade de infecção](https://github.com/Ronbragaglia/Simulador-de-Epidemias-Probabilidade-de-Infec-o)*
-
-   Este projeto simula a propagação de uma doença infecciosa em uma população fixa de 1000 pessoas ao longo de 30 dias, com uma 
-   probabilidade de infecção pré-definida. O objetivo é analisar como a infecção se propaga com o tempo e calcular a probabilidade de 
-   mais de 50% da população ser infectada ao final do período de simulação.**
-  
-
-> *Dica:* Visite os repositórios para explorar mais detalhes e resultados!
+Sou Analista de Sistemas e Especialista em Inteligência Artificial e Machine Learning, apaixonado por transformar dados em soluções que geram impacto real nos negócios. Embaixador da DIO e fundador da Cinétria, busco inovar usando IA para criar experiências únicas e relevantes.
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+## 📑 Sumário
 
+- [Minha Jornada](#-minha-jornada)  
+- [Projetos em Destaque](#-projetos-em-destaque)  
+- [Certificados](#-certificados)  
+- [Formação Acadêmica](#-formação-acadêmica)  
+- [Minha Stack](#-minha-stack)  
+- [Contatos](#-contatos)  
+- [Estatísticas do GitHub](#-estatísticas-do-github)
 
-## 🏅 Certificados:
+---
+
+## 📚 Minha Jornada
+
+• 2025: Fundador & Diretor Criativo — Cinétria | Mundo de Bob  
+• 2025: Embaixador da DIO – Capacitação em tecnologia e IA. 🎓🔥  
+• 2024: Pós-graduação em IA e Aprendizado de Máquina concluída. ✔🧠🎓  
+• 2023: Início de projetos aplicados com IA para marketing. ✔📊  
+• 2023: Graduação em Análise e Desenvolvimento de Sistemas concluída. ✔🎓👨‍💻  
+• 2022: Migração da área comercial para Tecnologia. ✔💻
+
+📌 **Meta 2025:** Criar a primeira franquia transmídia do Brasil unindo futebol, cultura pop, espiritualidade e IA generativa.
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+[![Titanic](https://img.shields.io/badge/-Titanic-1F8ACB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ronbragaglia/Sobreviventes-titanic)  
+Análise histórica com XGBoost para prever sobreviventes.
+
+[![Reconhecimento de Fala](https://img.shields.io/badge/-Reconhecimento%20de%20Fala-6D6D6D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ronbragaglia/Reconhecimento-de-fala-audio)  
+Sistema de transcrição de áudio multi-idioma com Python.
+
+[![Análise de Sentimentos](https://img.shields.io/badge/-Sentimentos%20Filmes-FF6C37?style=for-the-badge&logo=sklearn&logoColor=white)](https://github.com/Ronbragaglia/Sentimento-Cinematogr-fico)  
+Classificação de sentimentos usando NLP e Sklearn.
+
+[![Simulador de Epidemias](https://img.shields.io/badge/-Simulador%20Epidemias-1F8ACB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ronbragaglia/Simulador-de-Epidemias-Probabilidade-de-Infec-o)  
+Simulação probabilística de infecção em populações.
+
+</div>
+
+---
+
+## 🏅 Certificados
 
 | Curso                                                                                                                        | Plataforma       | Ano  | Link do Certificado                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
-| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> [Formação AI-102 Microsoft Azure](https://web.dio.me/track/formacao-ai-102-certification) | DIO              | 2025 | [Visualizar Certificado](https://hermes.dio.me/certificates/Z6WAAROV.pdf)           |
-| <img src="https://img.shields.io/badge/Conquer-Amarelo?style=flat&logo=Conquer&logoColor=black" alt="Conquer" height="20"> Inteligência Artificial                   | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
-| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> Formação Machine Learning                             | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
-| <img src="https://img.shields.io/badge/Alura-Azul?style=flat&logo=Alura&logoColor=white" alt="Alura" height="20"> Imersão Inteligência Artificial                   | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
-| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> Formação Cybersegurança Especialista                 | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
+| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> [Formação AI-102 Microsoft Azure](https://web.dio.me/track/formacao-ai-102-certification) | DIO              | 2025 | [Visualizar](https://hermes.dio.me/certificates/Z6WAAROV.pdf)           |
+| <img src="https://img.shields.io/badge/Conquer-Amarelo?style=flat&logo=Conquer&logoColor=black" alt="Conquer" height="20"> Inteligência Artificial                   | Conquer          | 2024 | [Visualizar](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
+| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> Formação Machine Learning                             | DIO              | 2024 | [Visualizar](https://www.dio.me/certificate/YKPL9NLP/share)            |
+| <img src="https://img.shields.io/badge/Alura-Azul?style=flat&logo=Alura&logoColor=white" alt="Alura" height="20"> Imersão Inteligência Artificial                   | Alura            | 2024 | [Visualizar](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
+| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> Formação Cybersegurança Especialista                 | DIO              | 2024 | [Visualizar](https://www.dio.me/certificate/0C19CA48/share)            |
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🎓_Formação_Acadêmica-8a3ab9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Formação Acadêmica Banner"/>
-</p>
+## 🎓 Formação Acadêmica
 
 | Formação                                                                                                 | Instituição  | Ano             |
 |----------------------------------------------------------------------------------------------------------|-------------|-----------------|
@@ -88,46 +85,44 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 | <img src="https://img.shields.io/badge/UNINOVE-Roxo?style=flat&logo=google-scholar&logoColor=white" height="20"> Graduação em Análise e Desenvolvimento de Sistemas | UNINOVE      | 2023 (concluída) |
 
 ---
-> Explore os detalhes de cada curso clicando nos links dos certificados.
 
-> Veja mais no meu [LinkedIn](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/).
+## 👨🏻‍💻 Minha Stack
+
+<div style="display: inline-block;">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img align="center" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
 ---
-<h3 align="left">Conecte-se comigo! 🤝👇🏼</h3>
+
+## 📞 Contatos
+
 <div>
   <a href="https://wa.me/5511954092078" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FF00F6&color:FFF">
-</a>
-  <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://discord.com/channels/@me/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://www.linkedin.com/in/rone-bragaglia-a6aa60157/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/@me/" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://ronbragaglia.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/-Portfolio-255E63?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-  <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">
-  <img src="https://img.shields.io/badge/-Marketing%20Digital-000?style=for-the-badge&logo=github&logoColor=FF00F6">
-</a>
- <a href="mailto:ronbragaglia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+  <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./" target="_blank">
+    <img src="https://img.shields.io/badge/-Marketing%20Digital-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.dio.me/users/ronebragagliasso">
-    <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="70">
+  <a href="mailto:ronbragaglia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-## 👨🏻‍💻 Minha Stack:
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  <img align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
-## 📊 Estatísticas do GitHub:
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&theme=midnight-purple&count_private=true&show_icons=true" alt="GitHub Stats"/>
@@ -135,12 +130,18 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&theme=midnight-purple&layout=compact&hide=jupyter%20notebook" alt="Linguagens Mais Usadas"/>
 </p>
 
-## 🐍Snake Animation
+---
+
+## 🐍 Snake Animation
 
 ![snake gif](https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake.svg)
 
-## 🌎 Visitas 👀:
+---
+
+## 🌎 Visitas 👀
+
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
+
 
 
 
