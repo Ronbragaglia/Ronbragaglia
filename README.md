@@ -75,6 +75,19 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 | <img src="https://img.shields.io/badge/Alura-Azul?style=flat&logo=Alura&logoColor=white" alt="Alura" height="20"> Imersão Inteligência Artificial                   | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
 | <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> Formação Cybersegurança Especialista                 | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-🎓_Formação_Acadêmica-8a3ab9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Formação Acadêmica Banner"/>
+</p>
+
+| Formação                                                                                                 | Instituição  | Ano             |
+|----------------------------------------------------------------------------------------------------------|-------------|-----------------|
+| <img src="https://img.shields.io/badge/UNINOVE-Roxo?style=flat&logo=google-scholar&logoColor=white" height="20"> Pós-graduação em Inteligência Artificial e Machine Learning | UNINOVE      | 2024 (concluída) |
+| <img src="https://img.shields.io/badge/UNINOVE-Roxo?style=flat&logo=google-scholar&logoColor=white" height="20"> Pós-graduação em Data Science | UNINOVE      | Em andamento    |
+| <img src="https://img.shields.io/badge/UNINOVE-Roxo?style=flat&logo=google-scholar&logoColor=white" height="20"> Graduação em Análise e Desenvolvimento de Sistemas | UNINOVE      | 2023 (concluída) |
+
+---
 > Explore os detalhes de cada curso clicando nos links dos certificados.
 
 > Veja mais no meu [LinkedIn](https://www.linkedin.com/in/rone-bragaglia-a6aa60157/).
