@@ -13,7 +13,22 @@
 
 ---
 
-<div align="right">
+## Sumário
+- [Minha Jornada](#-minha-jornada)
+- [Meta Pessoal para 2025](#-meta-pessoal-para-2025-)
+- [Quem sou eu além do código?](#-quem-sou-eu-além-do-código)
+- [Projetos em Destaque](#-projetos-em-destaque)
+- [Certificados](#-certificados)
+- [Formação Acadêmica](#-formação-acadêmica)
+- [Conecte-se comigo! 🤝👇🏼](#conecte-se-comigo-🤝👇🏼)
+- [Minha Stack](#-minha-stack)
+- [Estatísticas do GitHub](#-estatísticas-do-github)
+- [Snake Animation](#snake-animation)
+- [Visitas](#-visitas-👀)
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de computador com café" width="400px" style="border-radius: 8px;"/>
 </div>
 
@@ -142,6 +157,10 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 
 ## 🌎 Visitas 👀:
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
+
+
+
+
 
 
 
