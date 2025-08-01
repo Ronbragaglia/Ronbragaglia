@@ -68,13 +68,39 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 ## 🏅 Certificados:
 
 
+# 🔹 Document Fraud Detection with Azure AI & Machine Learning
 
-| Curso                               | Plataforma       | Ano  | Link do Certificado                                                                 |
-|-------------------------------------|------------------|------|-------------------------------------------------------------------------------------|
-| <img src="https://img.shields.io/badge/Conquer-Amarelo?style=flat&logo=Conquer&logoColor=black" alt="Conquer" height="20"> *Inteligência Artificial*             | Conquer          | 2024 | [Visualizar Certificado](https://conquerplus.com.br/certificates/4684e5c3-74b3-4c7d-b843-a2f55d9dfed2) |
-| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> *Formação Machine Learning*           | DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/YKPL9NLP/share)            |
-| <img src="https://img.shields.io/badge/Alura-Azul?style=flat&logo=Alura&logoColor=white" alt="Alura" height="20"> *Imersão Inteligência Artificial*     | Alura            | 2024 | [Visualizar Certificado](https://cursos.alura.com.br/immersion/22/user/ronebragaglia23/certificate) |
-| <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO" height="20"> *Formação Cybersegurança Especialista*| DIO              | 2024 | [Visualizar Certificado](https://www.dio.me/certificate/0C19CA48/share)            |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Azure-Document%20Intelligence-blue.svg" alt="Azure Badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green.svg" alt="ML Badge"/>
+  <img src="https://img.shields.io/badge/DIO-Roxo?style=flat&logo=dev.to&logoColor=white" alt="DIO Badge"/>
+  <img src="https://img.shields.io/badge/Status-Advanced%20Prototype-success.svg" alt="Status Badge"/>
+</p>
+
+---
+
+## 📌 Projeto
+
+🚀 Este projeto implementa uma **solução completa de análise de documentos** para **detecção de fraudes**, combinando:
+
+- **Azure AI Document Intelligence (Form Recognizer)** para extração de texto
+- **Machine Learning (Random Forest)** para score de fraude
+- **Verificação de autenticidade via QR Code**
+- **Geração de logs CSV para auditoria e compliance**
+
+---
+
+## ⚡ Pipeline da Solução
+
+```mermaid
+flowchart TD
+    A[📄 Upload Documento] --> B[☁️ Azure Document Intelligence]
+    B --> C[🔹 Extração de Texto e Features]
+    C --> D[✅ Validação QR Code]
+    D --> E[🤖 Modelo de Machine Learning]
+    E --> F[📊 Score de Fraude + Log CSV]
+
 
 
 
