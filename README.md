@@ -142,3 +142,9 @@ Confira alguns dos projetos que desenvolvi, aplicando inteligência artificial e
 ## 🌎 Visitas 👀:
 <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&label=&color=blueviolet&style=flat" />
 
+
+
+
+
+
+
