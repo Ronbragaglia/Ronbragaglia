@@ -103,7 +103,7 @@ developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -180,7 +180,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronbragaglia&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronbragaglia&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -189,7 +189,7 @@ developer = {
 ## 🐍 Snake das Contribuições
 
 <div align="center">
-  <img src="https://github.com/Ronbragaglia/Ronbragaglia/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github.com/Ronbragaglia/Ronbragaglia/raw/output/snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
