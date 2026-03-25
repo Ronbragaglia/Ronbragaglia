@@ -21,7 +21,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rone-bragaglia)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ronbragaglia@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Ronbragaglia&color=58a6ff&style=flat-square&label=Visitas)
+[![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=flat-square&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ronbragaglia&color=58a6ff&style=for-the-badge&label=VISITANTES+DO+PERFIL)
+[![GitHub Stars](https://img.shields.io/github/stars/Ronbragaglia?style=for-the-badge&logo=github&label=STARS+TOTAIS&color=ffd700&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ronbragaglia&query=public_repos&style=for-the-badge&logo=github&label=REPOSITÓRIOS&color=22c55e&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
 
 </div>
 
@@ -29,7 +35,7 @@
 
 ## 🧠 Sobre Mim
 
-Desenvolvedor full stack apaixonado por **Inteligência Artificial**, **automação de processos** e **arquitetura de software escalável**. Construo produtos do zero — da infraestrutura cloud ao frontend — com foco em impacto real para pessoas e empresas.
+**Engenheiro de ML** e Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** — SaaS multi-tenant que resolve inadimplência para PMEs brasileiras via WhatsApp + Stripe. Com +15 anos em desenvolvimento, construo desde agentes IA autônomos com LangChain e Claude AI até arquiteturas de produção com 10k+ predições/dia. Pós-Graduado em IA/ML pela UNINOVE, **Embaixador DIO Global** e especialista em transformar dados em sistemas que geram resultado real.
 
 ```python
 developer = {
@@ -41,6 +47,7 @@ developer = {
     "in_prod":    "10k+ predições/dia · 92% accuracy · -70% ETL time",
     "projects":   "50+ open source",
     "commits":    "10.000+",
+    "open_to":    "collabs · consultoria · open source 🤝",
     "mindset":    "build → ship → scale 🚀",
 }
 ```
@@ -113,6 +120,22 @@ developer = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📊 Análise de Contribuições
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronbragaglia&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Repos por Linguagem"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Linguagem mais commitada"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ronbragaglia&theme=tokyonight&utcOffset=-3" width="50%" alt="Horário produtivo"/>
 
 </div>
 
@@ -251,6 +274,28 @@ developer = {
 > 🎯 **Procurando colaborador?** &nbsp;|&nbsp; 💡 **Tem uma ideia?** &nbsp;|&nbsp; 🤖 **Quer IA no seu negócio?**
 >
 > **Bora conversar!** Sempre aberto a projetos desafiadores e colaborações open source.
+
+</div>
+
+---
+
+## 👁️ Visitantes
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b3a&height=2&section=header" width="100%"/>
+
+<br/>
+
+<img src="https://profile-counter.glitch.me/Ronbragaglia/count.svg" alt="Visitor Count"/>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=Ronbragaglia&color=7C3AED&style=for-the-badge&label=TOTAL+DE+VISITAS+AO+PERFIL)
+
+<br/>
+
+*Obrigado por visitar! Se meu trabalho te ajudou, deixa uma ⭐ nos projetos.*
 
 </div>
 
