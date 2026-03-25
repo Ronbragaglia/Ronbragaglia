@@ -34,20 +34,23 @@ Desenvolvedor full stack apaixonado por **Inteligência Artificial**, **automaç
 ```python
 developer = {
     "name":       "Rone Bragaglia",
-    "location":   "Brasil 🇧🇷",
-    "experience": "15+ anos",
-    "focus":      ["IA Generativa", "Full Stack", "Cloud", "Automação"],
+    "role":       "ML Engineer | Full Stack | Fundador CobrançaAuto",
+    "location":   "Santo André, São Paulo, Brasil 🇧🇷",
+    "education":  "Pós-Grad IA/ML + Data Science · ADS — UNINOVE",
+    "focus":      ["Agentes IA Autônomos", "MLOps", "Cybersecurity", "SaaS"],
+    "in_prod":    "10k+ predições/dia · 92% accuracy · -70% ETL time",
     "projects":   "50+ open source",
     "commits":    "10.000+",
-    "mindset":    "ship fast, learn faster 🚀",
+    "mindset":    "build → ship → scale 🚀",
 }
 ```
 
-- 🔭 Atualmente construindo: **SaaS de cobranças automáticas com IA**
-- 🤖 Explorando: **Claude AI (Anthropic), LangChain Agents, RAG pipelines**
-- 🌱 Aprendendo: **Kubernetes, Rust, WebAssembly**
-- 💬 Me pergunte sobre: Python, OpenAI, automação, Laravel, React, Docker
-- ⚡ Fun fact: Prefiro resolver um problema complexo com 10 linhas do que 100
+- 🏢 Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** — SaaS que automatiza cobranças via WhatsApp + Stripe para PMEs
+- 🤖 Especializado em: **Agentes IA Autônomos**, RAG pipelines, LangChain, Claude AI
+- 🛡️ Área emergente: **ML aplicado à Cibersegurança** · detecção de ameaças em tempo real · Zero Trust
+- 🌱 Foco 2026: **Governança de IA**, compliance para automação autônoma, MLOps em escala
+- 🏅 **Embaixador DIO Global** — Campus Expert Turma 11
+- ⚡ Modelos em produção: 92% accuracy · 10k+ predições/dia · ETL 70% mais rápido
 
 ---
 
@@ -77,6 +80,12 @@ developer = {
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C6E?style=for-the-badge&logoColor=white)](https://langchain.com)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+
+**Cybersecurity & Robótica**
+
+[![My Skills](https://skillicons.dev/icons?i=kali,bash,linux&theme=dark)](https://skillicons.dev)
+[![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-1a1b3a?style=for-the-badge&logo=security&logoColor=white)]()
+[![ML Security](https://img.shields.io/badge/ML%20Security-Threat%20Detection-dc2626?style=for-the-badge&logo=shield&logoColor=white)]()
 
 **Banco de Dados**
 
@@ -113,6 +122,14 @@ developer = {
 
 <div align="center">
 
+<!-- CobrançaAuto — produto principal -->
+<a href="https://cobrancaauto.com.br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Cobranca-auto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
+</a>
+<a href="https://ronbragaglia.github.io/Portfolio/UNINOVE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+</a>
+
 <a href="https://github.com/Ronbragaglia/assistente_com-banco">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=assistente_com-banco&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
@@ -142,37 +159,60 @@ developer = {
 <tr>
 <td width="50%" valign="top">
 
-**🤖 IA Generativa & LLMs**
-- GPT-4o, Claude, Gemini integrations
+**🤖 IA Generativa & MLOps**
+- Agentes IA autônomos com LangChain + Claude AI
 - RAG pipelines com embeddings semânticos
-- LangChain agents e tool calling
-- Fine-tuning e prompt engineering avançado
-- Chatbots com memória e contexto persistente
+- Modelos em produção: 92% accuracy · 10k+ pred/dia
+- Pipelines MLOps completos (CI/CD, A/B testing, monitoramento)
+- AutoML e fine-tuning de LLMs
 
 **☁️ Cloud & DevOps**
-- Arquiteturas serverless no Azure / AWS
-- CI/CD com GitHub Actions
-- Docker, Kubernetes, Terraform (IaC)
+- Azure AI Services, AWS, Docker, Kubernetes
+- CI/CD com GitHub Actions · Terraform (IaC)
+- Otimização ETL (-70% tempo de execução)
 - Monitoramento com Grafana / Application Insights
 
 </td>
 <td width="50%" valign="top">
 
-**🚀 Automação & Scripts**
-- Automação end-to-end com Python + n8n
-- Web scraping e data extraction
-- Bots para WhatsApp, Telegram, Discord
-- Integração de APIs e webhooks
+**🛡️ Cybersecurity & ML Security**
+- Detecção de ameaças em tempo real via ML
+- Arquitetura Zero Trust
+- Análise comportamental e anomaly detection
+- Compliance para automação autônoma
 
-**💻 Full Stack Web**
-- SPAs com React / Next.js e APIs Laravel
-- RESTful & GraphQL APIs com FastAPI
-- Bancos de dados relacionais e NoSQL
-- PWA, performance e SEO técnico
+**💻 Full Stack & SaaS**
+- Fundador CobrançaAuto — multi-tenant billing SaaS
+- SPAs com React / Next.js + APIs Laravel
+- Integração Stripe, WhatsApp (Evolution API)
+- PWA, performance e arquitetura escalável
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🎓 Formação & Certificações
+
+<div align="center">
+
+**Formação Acadêmica — UNINOVE**
+
+[![ADS](https://img.shields.io/badge/UNINOVE-Análise%20e%20Des.%20de%20Sistemas-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
+[![MBA IA/ML](https://img.shields.io/badge/UNINOVE-MBA%20Inteligência%20Artificial%20%26%20ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
+[![Data Science](https://img.shields.io/badge/UNINOVE-Pós%20Data%20Science%20%26%20Analytics-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
+
+**Certificações — DIO & Rocketseat**
+
+[![DIO](https://img.shields.io/badge/DIO-Cloud%20com%20IA%20%7C%20XP%20Inc.-E84D3E?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me)
+[![DIO](https://img.shields.io/badge/DIO-BairesDev%20ML%20Training-E84D3E?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me)
+[![DIO](https://img.shields.io/badge/DIO-AI--102%20Microsoft%20Azure%20IA-E84D3E?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://hermes.dio.me/certificates/Z6WAAROV.pdf)
+[![DIO](https://img.shields.io/badge/DIO-Campus%20Expert%20%7C%20Embaixador%20Global-E84D3E?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me)
+[![DIO](https://img.shields.io/badge/DIO-Microsoft%20AI%20for%20Tech-E84D3E?style=for-the-badge&logo=microsoft&logoColor=white)](https://dio.me)
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-IA%20na%20Prática-8257E5?style=for-the-badge&logo=rocketseat&logoColor=white)](https://rocketseat.com.br)
+
+</div>
 
 ---
 
@@ -203,7 +243,8 @@ developer = {
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954092078)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://ronbragaglia.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfólio%20IA-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://ronbragaglia.github.io/Portfolio/UNINOVE)
+[![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=for-the-badge&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 
 <br/>
 
