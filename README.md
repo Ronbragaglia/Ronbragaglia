@@ -176,55 +176,64 @@
   ---
   
   ## 📞 Entre em Contato
-  
+
   <div align="center">
-    
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronbragaglia@gmail.com)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rone-bragaglia)
-    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ronbragaglia)
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
-    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ronbragaglia)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ronbragaglia.github.io)
-    
+    <a href="mailto:ronbragaglia@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://linkedin.com/in/rone-bragaglia">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/ronbragaglia">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://instagram.com/ronbragaglia">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://wa.me/5511954092078">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    <a href="https://ronbragaglia.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    </a>
   </div>
-  
+
   ---
-  
+
   ## 💬 Vamos Conversar?
-  
+
   🎯 **Procurando colaborador para seu projeto?**  
   💡 **Tem uma ideia incrível e quer torná-la realidade?**  
   🚀 **Quer automatizar processos e aumentar produtividade?**  
   🤖 **Interessado em soluções de IA para seu negócio?**
-  
+
   Entre em contato! Estou sempre disposto a ajudar e colaborar em projetos interessantes.
-  
+
   ---
-  
+
   <div align="center">
-    
-    ## ⭐ Se você gostou do meu trabalho, considere dar uma estrela! ⭐
-    
+    <h3>⭐ Se você gostou do meu trabalho, considere dar uma estrela! ⭐</h3>
     <img src="https://komarev.com/ghpvc/?username=Ronbragaglia&style=for-the-badge&color=58a6ff" alt="Profile Views">
-    
-    ---
-    
+  </div>
+
+  ---
+
+  <div align="center">
     <img src="https://github.com/Ronbragaglia/Ronbragaglia/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
-    
-    ---
-    
-    <p align="center">
+  </div>
+
+  ---
+
+  <div align="center">
+    <p>
       <b>Feito com 💙 e muito ☕ por Rone Bragaglia</b>
     </p>
-    
-    <p align="center">
+    <p>
       <i>"Código é poesia escrita em lógica"</i>
     </p>
-    
-    <p align="center">
+    <p>
       © 2026 Rone Bragaglia. Todos os direitos reservados.
     </p>
-    
   </div>
 
 </div>
