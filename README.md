@@ -119,7 +119,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -129,13 +129,11 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronbragaglia&theme=tokyonight" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronbragaglia&theme=tokyonight" width="100%" alt="Timeline de Contribuições"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Repos por Linguagem"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Linguagem mais commitada"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ronbragaglia&theme=tokyonight&utcOffset=-3" width="50%" alt="Horário produtivo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Stats Gerais"/>
 
 </div>
 
@@ -287,11 +285,8 @@ developer = {
 
 <br/>
 
-<img src="https://profile-counter.glitch.me/Ronbragaglia/count.svg" alt="Visitor Count"/>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=Ronbragaglia&color=7C3AED&style=for-the-badge&label=TOTAL+DE+VISITAS+AO+PERFIL)
+![Visitas](https://komarev.com/ghpvc/?username=Ronbragaglia&color=7C3AED&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRonbragaglia&count_bg=%237C3AED&title_bg=%230d1117&icon=github.svg&icon_color=%23FFFFFF&title=Acessos+Hoje+%2F+Total&edge_flat=false)
 
 <br/>
 
