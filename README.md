@@ -149,7 +149,7 @@ developer = {
 <a href="https://cobrancaauto.com.br">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Cobranca-auto&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
 </a>
-<a href="https://ronbragaglia.github.io/Portfolio/UNINOVE">
+<a href="https://ronbragaglia.github.io/Portfolio/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Portfolio&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 
@@ -266,7 +266,7 @@ developer = {
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954092078)
-[![Portfolio](https://img.shields.io/badge/Portfólio%20IA-04040a?style=for-the-badge&logo=github&logoColor=6366f1)](https://ronbragaglia.github.io/Portfolio/UNINOVE)
+[![Portfolio](https://img.shields.io/badge/Portfólio%20IA-04040a?style=for-the-badge&logo=github&logoColor=6366f1)](https://ronbragaglia.github.io/Portfolio/)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=for-the-badge&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 
 <br/>
