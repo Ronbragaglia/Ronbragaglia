@@ -102,6 +102,17 @@ developer = {
 
 ---
 
+## ⏱️ WakaTime — Tempo de Código (Últimos 7 dias)
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
