@@ -25,9 +25,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ronbragaglia&color=58a6ff&style=for-the-badge&label=VISITANTES+DO+PERFIL)
-[![GitHub Stars](https://img.shields.io/github/stars/Ronbragaglia?style=for-the-badge&logo=github&label=STARS+TOTAIS&color=ffd700&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ronbragaglia&query=public_repos&style=for-the-badge&logo=github&label=REPOSITÓRIOS&color=22c55e&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
+![](https://komarev.com/ghpvc/?username=Ronbragaglia&color=58a6ff&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+[![](https://img.shields.io/github/stars/Ronbragaglia?style=for-the-badge&logo=github&label=⭐+STARS&color=ffd700&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
+[![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ronbragaglia&query=public_repos&style=for-the-badge&logo=github&label=📦+REPOS&color=22c55e&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
 
 </div>
 
@@ -106,10 +106,12 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&show=reviews,prs_merged,prs_merged_percentage,discussions_started" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top Languages" width="42%"/>
 
-<img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=tokyonight&hide_border=true&background=0d1117&border=58a6ff&stroke=1a1b3a&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&border_radius=12" alt="GitHub Streak" width="70%"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=tokyonight&hide_border=true&background=0d1117&border=58a6ff&stroke=1a1b3a&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&border_radius=12" alt="GitHub Streak" width="80%"/>
 
 </div>
 
@@ -119,7 +121,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -285,8 +287,7 @@ developer = {
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=Ronbragaglia&color=7C3AED&style=for-the-badge&label=VISITAS+AO+PERFIL)
-![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRonbragaglia&count_bg=%237C3AED&title_bg=%230d1117&icon=github.svg&icon_color=%23FFFFFF&title=Acessos+Hoje+%2F+Total&edge_flat=false)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRonbragaglia&count_bg=%237C3AED&title_bg=%230d1117&icon=github.svg&icon_color=%23FFFFFF&title=Hoje+%2F+Total&edge_flat=false)
 
 <br/>
 
