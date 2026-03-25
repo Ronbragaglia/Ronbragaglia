@@ -117,16 +117,6 @@ developer = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📊 Análise de Contribuições
 
 <div align="center">
@@ -287,7 +277,7 @@ developer = {
 
 <br/>
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRonbragaglia&count_bg=%237C3AED&title_bg=%230d1117&icon=github.svg&icon_color=%23FFFFFF&title=Hoje+%2F+Total&edge_flat=false)
+![](https://komarev.com/ghpvc/?username=Ronbragaglia&color=7C3AED&style=for-the-badge&label=VISITANTES)
 
 <br/>
 
