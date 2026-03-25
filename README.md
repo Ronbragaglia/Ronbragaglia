@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Capsule Render Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b3a,100:58a6ff&height=220&section=header&text=Rone%20Bragaglia&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Specialist%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=17&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04040a,50:1a1040,100:6366f1&height=220&section=header&text=Rone%20Bragaglia&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Specialist%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=17&descColor=c9d1d9" width="100%"/>
 
 <!-- Avatar -->
-<img src="https://github.com/Ronbragaglia.png" width="155" style="border-radius:50%;border:4px solid #58a6ff;margin-top:-10px;"/>
+<img src="https://github.com/Ronbragaglia.png" width="155" style="border-radius:50%;border:4px solid #6366f1;margin-top:-10px;"/>
 
 <br/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Transformando+ideias+em+c%C3%B3digo+desde+2009;Full+Stack+%7C+IA+%7C+Automa%C3%A7%C3%A3o+%7C+Cloud;15%2B+anos+%E2%80%A2+50%2B+projetos+%E2%80%A2+10k%2B+commits" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&lines=Transformando+ideias+em+c%C3%B3digo+desde+2009;Full+Stack+%7C+IA+%7C+Automa%C3%A7%C3%A3o+%7C+Cloud;15%2B+anos+%E2%80%A2+50%2B+projetos+%E2%80%A2+10k%2B+commits" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Ronbragaglia&color=58a6ff&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Ronbragaglia&color=6366f1&style=for-the-badge&label=👁️+PROFILE+VIEWS)
 [![](https://img.shields.io/github/stars/Ronbragaglia?style=for-the-badge&logo=github&label=⭐+STARS&color=ffd700&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
 [![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ronbragaglia&query=public_repos&style=for-the-badge&logo=github&label=📦+REPOS&color=22c55e&logoColor=white)](https://github.com/Ronbragaglia?tab=repositories)
 
@@ -106,7 +106,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ronbragaglia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&layout=compact&langs_count=10" alt="WakaTime Stats" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ronbragaglia&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1&border_radius=12&layout=compact&langs_count=10" alt="WakaTime Stats" width="70%"/>
 
 </div>
 
@@ -116,12 +116,12 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&show=reviews,prs_merged,prs_merged_percentage,discussions_started" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top Languages" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&show=reviews,prs_merged,prs_merged_percentage,discussions_started" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&layout=donut&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top Languages" width="42%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ronbragaglia&theme=tokyonight&hide_border=true&background=0d1117&border=58a6ff&stroke=1a1b3a&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&border_radius=12" alt="GitHub Streak" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=Ronbragaglia&hide_border=true&background=04040a&border=6366f1&stroke=1a1040&ring=6366f1&fire=ec4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=c9d1d9&border_radius=12" alt="GitHub Streak" width="80%"/>
 
 </div>
 
@@ -131,11 +131,11 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronbragaglia&theme=tokyonight" width="100%" alt="Timeline de Contribuições"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronbragaglia&theme=github_dark" width="100%" alt="Timeline de Contribuições"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Repos por Linguagem"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Linguagem mais commitada"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronbragaglia&theme=tokyonight" width="32%" alt="Stats Gerais"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronbragaglia&theme=github_dark" width="32%" alt="Repos por Linguagem"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronbragaglia&theme=github_dark" width="32%" alt="Linguagem mais commitada"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronbragaglia&theme=github_dark" width="32%" alt="Stats Gerais"/>
 
 </div>
 
@@ -147,29 +147,29 @@ developer = {
 
 <!-- CobrançaAuto — produto principal -->
 <a href="https://cobrancaauto.com.br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Cobranca-auto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Cobranca-auto&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
 </a>
 <a href="https://ronbragaglia.github.io/Portfolio/UNINOVE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Portfolio&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 
 <a href="https://github.com/Ronbragaglia/assistente_com-banco">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=assistente_com-banco&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=assistente_com-banco&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/Azure-Voice-Language-Lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Azure-Voice-Language-Lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Azure-Voice-Language-Lab&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/code-generator-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=code-generator-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=code-generator-ai&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/Assistente-de-Voz-Inteligente">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Assistente-de-Voz-Inteligente&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Assistente-de-Voz-Inteligente&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/DocuGen-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=DocuGen-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=DocuGen-AI&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/Automação-de-Busca-de-Empregos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Automa%C3%A7%C3%A3o-de-Busca-de-Empregos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Automa%C3%A7%C3%A3o-de-Busca-de-Empregos&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 
 </div>
@@ -243,7 +243,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronbragaglia&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronbragaglia&bg_color=04040a&color=6366f1&line=6366f1&point=ec4899&area=true&area_color=6366f1&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -266,7 +266,7 @@ developer = {
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954092078)
-[![Portfolio](https://img.shields.io/badge/Portfólio%20IA-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://ronbragaglia.github.io/Portfolio/UNINOVE)
+[![Portfolio](https://img.shields.io/badge/Portfólio%20IA-04040a?style=for-the-badge&logo=github&logoColor=6366f1)](https://ronbragaglia.github.io/Portfolio/UNINOVE)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=for-the-badge&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 
 <br/>
@@ -298,7 +298,7 @@ developer = {
 ---
 
 <!-- Capsule Render Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b3a,100:0d1117&height=130&section=footer&text=Let's%20build%20something%20great%20together!&fontSize=16&fontColor=c9d1d9&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1a1040,100:04040a&height=130&section=footer&text=Let's%20build%20something%20great%20together!&fontSize=16&fontColor=c9d1d9&fontAlignY=65&animation=twinkling" width="100%"/>
 
 <div align="center">
   <sub>Feito com 💙 e muito ☕ por <b>Rone Bragaglia</b> &nbsp;•&nbsp; <i>"Código é poesia escrita em lógica"</i></sub>
