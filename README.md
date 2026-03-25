@@ -106,8 +106,7 @@ developer = {
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ronbragaglia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&layout=compact&langs_count=10" alt="WakaTime Stats" width="70%"/>
 
 </div>
 
