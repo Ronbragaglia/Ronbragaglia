@@ -46,7 +46,7 @@ developer = {
     "focus":      ["Agentes IA Autônomos", "MLOps", "Cybersecurity", "SaaS"],
     "in_prod":    "10k+ predições/dia · 92% accuracy · -70% ETL time",
     "projects":   "50+ open source",
-    "commits":    "10.000+",
+    "commits":    "700+ públicos · +15 anos de dev",
     "open_to":    "collabs · consultoria · open source 🤝",
     "mindset":    "build → ship → scale 🚀",
 }
