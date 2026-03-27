@@ -111,8 +111,9 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&layout=donut&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top Languages" width="42%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronbragaglia&theme=github_dark" alt="GitHub Stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronbragaglia&theme=github_dark" alt="Repos por Linguagem" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronbragaglia&theme=github_dark" alt="Linguagem mais commitada" width="32%"/>
 
 <br/>
 
@@ -138,37 +139,64 @@ developer = {
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<!-- CobrançaAuto — produto principal -->
-<a href="https://cobrancaauto.com.br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Cobranca-auto&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
-</a>
-<a href="https://ronbragaglia.github.io/Portfolio/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Portfolio&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
-</a>
-
-<a href="https://github.com/Ronbragaglia/assistente_com-banco">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=assistente_com-banco&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
-</a>
-<a href="https://github.com/Ronbragaglia/Azure-Voice-Language-Lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Azure-Voice-Language-Lab&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
-</a>
-<a href="https://github.com/Ronbragaglia/code-generator-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=code-generator-ai&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
-</a>
-<a href="https://github.com/Ronbragaglia/Assistente-de-Voz-Inteligente">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Assistente-de-Voz-Inteligente&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
-</a>
-<a href="https://github.com/Ronbragaglia/DocuGen-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=DocuGen-AI&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
-</a>
-<a href="https://github.com/Ronbragaglia/Automação-de-Busca-de-Empregos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Automa%C3%A7%C3%A3o-de-Busca-de-Empregos&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
-</a>
-
-</div>
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 <a href="https://cobrancaauto.com.br">CobrançaAuto</a></h4>
+      <p>SaaS que automatiza cobranças via WhatsApp + Stripe para PMEs</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/Cobranca-auto?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Cobranca-auto?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://ronbragaglia.github.io/Portfolio/">Portfólio IA</a></h4>
+      <p>Portfólio completo: ML, Full Stack, Cibersegurança e projetos open source</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/Portfolio?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Portfolio?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Ronbragaglia/assistente_com-banco">Assistente + Banco</a></h4>
+      <p>Assistente de IA com memória persistente via LangChain + SQL</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/assistente_com-banco?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/assistente_com-banco?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📄 <a href="https://github.com/Ronbragaglia/DocuGen-AI">DocuGen AI</a></h4>
+      <p>Gerador automático de documentos técnicos com LLMs e templates</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/DocuGen-AI?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/DocuGen-AI?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/Ronbragaglia/code-generator-ai">Code Generator AI</a></h4>
+      <p>Gerador de código com IA generativa — prompts → código funcional</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/code-generator-ai?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/code-generator-ai?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎙️ <a href="https://github.com/Ronbragaglia/Azure-Voice-Language-Lab">Azure Voice Lab</a></h4>
+      <p>Lab Azure Speech + Language Studio — reconhecimento de fala e NLP</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/Azure-Voice-Language-Lab?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Azure-Voice-Language-Lab?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔊 <a href="https://github.com/Ronbragaglia/Assistente-de-Voz-Inteligente">Assistente de Voz</a></h4>
+      <p>Assistente de voz com OpenAI GPT + OpenWeatherMap em Python</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/Assistente-de-Voz-Inteligente?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Assistente-de-Voz-Inteligente?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">Portfólio Marketing</a></h4>
+      <p>Portfólio de Marketing Digital e IA — SEO, campanhas e analytics</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🎯 Especialidades
