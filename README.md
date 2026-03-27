@@ -103,13 +103,7 @@ developer = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=onestar&no-frame=true&no-bg=true&column=7&row=1&margin-w=8" alt="GitHub Trophies" width="100%"/>
-
-</div>
 
 ---
 
