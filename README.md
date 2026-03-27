@@ -275,7 +275,7 @@ developer = {
 ## 🐍 Snake das Contribuições
 
 <div align="center">
-  <img src="https://github.com/Ronbragaglia/Ronbragaglia/raw/output/snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ronbragaglia/Ronbragaglia/output/snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
