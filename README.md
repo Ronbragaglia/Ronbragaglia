@@ -111,7 +111,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&show=reviews,prs_merged,prs_merged_percentage,discussions_started" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ronbragaglia&show_icons=true&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronbragaglia&layout=donut&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top Languages" width="42%"/>
 
 <br/>
@@ -149,19 +149,19 @@ developer = {
 </a>
 
 <a href="https://github.com/Ronbragaglia/assistente_com-banco">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=assistente_com-banco&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=assistente_com-banco&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/Azure-Voice-Language-Lab">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Azure-Voice-Language-Lab&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/code-generator-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=code-generator-ai&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=code-generator-ai&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/Assistente-de-Voz-Inteligente">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Assistente-de-Voz-Inteligente&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/DocuGen-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=DocuGen-AI&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=DocuGen-AI&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12&description_lines_count=2" width="48%"/>
 </a>
 <a href="https://github.com/Ronbragaglia/Automação-de-Busca-de-Empregos">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronbragaglia&repo=Automa%C3%A7%C3%A3o-de-Busca-de-Empregos&hide_border=true&bg_color=04040a&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=12" width="48%"/>
