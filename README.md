@@ -103,11 +103,11 @@ developer = {
 
 ---
 
-## ⏱️ WakaTime — Tempo de Código (Últimos 7 dias)
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ronbragaglia&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1&border_radius=12&layout=compact&langs_count=10" alt="WakaTime Stats" width="70%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ronbragaglia&theme=onestar&no-frame=true&no-bg=true&column=7&row=1&margin-w=8" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
