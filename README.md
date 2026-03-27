@@ -22,6 +22,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ronbragaglia@gmail.com)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=flat-square&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
+[![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=flat-square&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
 
 <br/>
 
@@ -267,6 +268,7 @@ developer = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954092078)
 [![Portfolio](https://img.shields.io/badge/Portfólio%20IA-04040a?style=for-the-badge&logo=github&logoColor=6366f1)](https://ronbragaglia.github.io/Portfolio/)
+[![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=for-the-badge&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 
 <br/>
