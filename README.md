@@ -22,7 +22,9 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ronbragaglia@gmail.com)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=flat-square&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
+[![GestaoPay](https://img.shields.io/badge/GestaoPay-01696f?style=flat-square&logo=cash-app&logoColor=white)](https://gestaopay.online)
 [![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=flat-square&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@Ronbragaglia)
 
 <br/>
 
@@ -129,10 +131,6 @@ developer = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronbragaglia&theme=github_dark" width="100%" alt="Timeline de Contribuições"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronbragaglia&theme=github_dark" width="32%" alt="Repos por Linguagem"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronbragaglia&theme=github_dark" width="32%" alt="Linguagem mais commitada"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronbragaglia&theme=github_dark" width="32%" alt="Stats Gerais"/>
-
 </div>
 
 ---
@@ -194,6 +192,33 @@ developer = {
       <p>Portfólio de Marketing Digital e IA — SEO, campanhas e analytics</p>
       <img src="https://img.shields.io/github/stars/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
       <img src="https://img.shields.io/github/languages/top/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗺️ <a href="https://github.com/Ronbragaglia/roteiros-viagens-brasil">Roteiros Viagens Brasil</a></h4>
+      <p>Guia colaborativo com roteiros completos das principais cidades do Brasil</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/roteiros-viagens-brasil?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/roteiros-viagens-brasil?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏛️ <a href="https://github.com/Ronbragaglia/honestidade-politicos-brasil">Honestidade Políticos BR</a></h4>
+      <p>Índice de transparência dos políticos brasileiros com dados públicos</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/honestidade-politicos-brasil?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/honestidade-politicos-brasil?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💰 <a href="https://gestaopay.online">GestaoPay</a></h4>
+      <p>SaaS de Contas a Pagar + Folha de Pagamentos com eSocial, FGTS e 13º</p>
+      <img src="https://img.shields.io/badge/status-production-22c55e?style=flat-square" alt="status"/>
+      <img src="https://img.shields.io/badge/stack-Laravel%20%2B%20React-6366f1?style=flat-square" alt="stack"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://wakatime.com/@Ronbragaglia">WakaTime Stats</a></h4>
+      <p>Tempo real de coding — métricas de produtividade e linguagens</p>
+      <img src="https://img.shields.io/badge/WakaTime-tracking-000000?style=flat-square&logo=wakatime&logoColor=white" alt="wakatime"/>
     </td>
   </tr>
 </table>
@@ -267,6 +292,20 @@ developer = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronbragaglia&bg_color=04040a&color=6366f1&line=6366f1&point=ec4899&area=true&area_color=6366f1&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## ⏱️ WakaTime — Coding Activity
+
+<div align="center">
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ronbragaglia&theme=github_dark&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&layout=compact&langs_count=8)](https://wakatime.com/@Ronbragaglia)
+
+<br/>
+
+[![wakatime](https://wakatime.com/badge/user/Ronbragaglia.svg?style=for-the-badge)](https://wakatime.com/@Ronbragaglia)
 
 </div>
 
