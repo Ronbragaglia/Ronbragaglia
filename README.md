@@ -24,7 +24,7 @@
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=flat-square&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 [![GestaoPay](https://img.shields.io/badge/GestaoPay-01696f?style=flat-square&logo=cash-app&logoColor=white)](https://gestaopay.online)
 [![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=flat-square&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
-[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@Ronbragaglia)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@ronbragaglia)
 
 <br/>
 
@@ -216,7 +216,7 @@ developer = {
       <img src="https://img.shields.io/badge/stack-Laravel%20%2B%20React-6366f1?style=flat-square" alt="stack"/>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://wakatime.com/@Ronbragaglia">WakaTime Stats</a></h4>
+      <h4>📊 <a href="https://wakatime.com/@ronbragaglia">WakaTime Stats</a></h4>
       <p>Tempo real de coding — métricas de produtividade e linguagens</p>
       <img src="https://img.shields.io/badge/WakaTime-tracking-000000?style=flat-square&logo=wakatime&logoColor=white" alt="wakatime"/>
     </td>
@@ -301,11 +301,13 @@ developer = {
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ronbragaglia&theme=github_dark&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&layout=compact&langs_count=8)](https://wakatime.com/@Ronbragaglia)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ronbragaglia&theme=github_dark&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&layout=compact&langs_count=10&custom_title=⏱️+Tempo+de+Código+Esta+Semana)](https://wakatime.com/@ronbragaglia)
 
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/Ronbragaglia.svg?style=for-the-badge)](https://wakatime.com/@Ronbragaglia)
+[![wakatime](https://wakatime.com/badge/user/ronbragaglia.svg?style=for-the-badge)](https://wakatime.com/@ronbragaglia)
+&nbsp;
+[![](https://img.shields.io/badge/WakaTime-Since%20Mar%202026-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@ronbragaglia)
 
 </div>
 
