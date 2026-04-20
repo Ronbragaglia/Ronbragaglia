@@ -14,13 +14,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "False"
+          LANG_COUNT: 8
+          SHOW_TIME: "True"
+          SHOW_TOTAL: "True"
+          TIME_RANGE: last_30_days
+          BLOCKS: ░▒▓█
           COMMIT_MESSAGE: "chore: update WakaTime stats"
