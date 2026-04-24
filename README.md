@@ -38,12 +38,12 @@
 
 ## 🧠 Sobre Mim
 
-**Engenheiro de ML** e Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** — SaaS multi-tenant que resolve inadimplência para PMEs brasileiras via WhatsApp + Stripe. Com +15 anos em desenvolvimento, construo desde agentes IA autônomos com LangChain e Claude AI até arquiteturas de produção com 10k+ predições/dia. Pós-Graduado em IA/ML pela UNINOVE, **Embaixador DIO Global** e especialista em transformar dados em sistemas que geram resultado real.
+**Engenheiro de ML** e Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** e do **[GestaoPay](https://gestaopay.online)** — dois SaaS que resolvem dores reais de PMEs brasileiras: cobranças automatizadas via WhatsApp + Stripe e gestão completa de contas a pagar, folha de pagamentos com eSocial, FGTS e 13º. Com +15 anos em desenvolvimento, construo desde agentes IA autônomos com LangChain e Claude AI até arquiteturas de produção com 10k+ predições/dia. Pós-Graduado em IA/ML pela UNINOVE, **Embaixador DIO Global** e especialista em transformar dados em sistemas que geram resultado real.
 
 ```python
 developer = {
     "name":       "Rone Bragaglia",
-    "role":       "ML Engineer | Full Stack | Fundador CobrançaAuto",
+    "role":       "ML Engineer | Full Stack | Fundador CobrançaAuto & GestaoPay",
     "location":   "Santo André, São Paulo, Brasil 🇧🇷",
     "education":  "Pós-Grad IA/ML + Data Science · ADS — UNINOVE",
     "focus":      ["Agentes IA Autônomos", "MLOps", "Cybersecurity", "SaaS"],
@@ -55,7 +55,8 @@ developer = {
 }
 ```
 
-- 🏢 Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** — SaaS que automatiza cobranças via WhatsApp + Stripe para PMEs
+- 🏢 Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** — SaaS de cobranças automatizadas via WhatsApp + Stripe para PMEs
+- 💰 Fundador do **[GestaoPay](https://gestaopay.online)** — SaaS de Contas a Pagar + Folha de Pagamentos com eSocial, FGTS e 13º
 - 🤖 Especializado em: **Agentes IA Autônomos**, RAG pipelines, LangChain, Claude AI
 - 🛡️ Área emergente: **ML aplicado à Cibersegurança** · detecção de ameaças em tempo real · Zero Trust
 - 🌱 Foco 2026: **Governança de IA**, compliance para automação autônoma, MLOps em escala
@@ -253,7 +254,7 @@ developer = {
 - Compliance para automação autônoma
 
 **💻 Full Stack & SaaS**
-- Fundador CobrançaAuto — multi-tenant billing SaaS
+- Fundador CobrançaAuto & GestaoPay — SaaS de billing e payroll
 - SPAs com React / Next.js + APIs Laravel
 - Integração Stripe, WhatsApp (Evolution API)
 - PWA, performance e arquitetura escalável
