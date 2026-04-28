@@ -317,16 +317,13 @@ developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 49 mins
+Total Time: 4 hrs 57 mins
 
-JavaScript        6 hrs 36 mins         █████████████████████░░░░   84.28 %
-Markdown          40 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Java Properties   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-JSON              9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-PowerShell        8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-PHP               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Python            1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Git Config        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JavaScript        4 hrs 3 mins          ████████████████████▒░░░░   81.82 %
+Markdown          33 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Java Properties   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+JSON              9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+PHP               2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
