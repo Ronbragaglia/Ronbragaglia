@@ -38,14 +38,14 @@
 
 ## 🧠 Sobre Mim
 
-**Engenheiro de ML** e Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** e do **[GestaoPay](https://gestaopay.online)** — dois SaaS que resolvem dores reais de PMEs brasileiras: cobranças automatizadas via WhatsApp + Stripe e gestão completa de contas a pagar, folha de pagamentos com eSocial, FGTS e 13º. Com +15 anos em desenvolvimento, construo desde agentes IA autônomos com LangChain e Claude AI até arquiteturas de produção com 10k+ predições/dia. Pós-Graduado em IA/ML pela UNINOVE, **Embaixador DIO Global** e especialista em transformar dados em sistemas que geram resultado real.
+**Engenheiro de ML** e Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** e do **[GestaoPay](https://gestaopay.online)**, dois SaaS que resolvem dores reais de PMEs brasileiras: cobranças automatizadas via WhatsApp + Stripe e gestão completa de contas a pagar, folha de pagamentos com eSocial, FGTS e 13º. Com +15 anos em desenvolvimento, construo desde agentes IA autônomos com LangChain e Claude AI até arquiteturas de produção com 10k+ predições/dia. Pós-Graduado em IA/ML pela UNINOVE, **Embaixador DIO Global** e especialista em transformar dados em sistemas que geram resultado real.
 
 ```python
 developer = {
     "name":       "Rone Bragaglia",
     "role":       "ML Engineer | Full Stack | Fundador CobrançaAuto & GestaoPay",
     "location":   "Santo André, São Paulo, Brasil 🇧🇷",
-    "education":  "Pós-Grad IA/ML + Data Science · ADS — UNINOVE",
+    "education":  "Pós-Grad IA/ML + Data Science · ADS, UNINOVE",
     "focus":      ["Agentes IA Autônomos", "MLOps", "Cybersecurity", "SaaS"],
     "in_prod":    "10k+ predições/dia · 92% accuracy · -70% ETL time",
     "projects":   "50+ open source",
@@ -55,12 +55,12 @@ developer = {
 }
 ```
 
-- 🏢 Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** — SaaS de cobranças automatizadas via WhatsApp + Stripe para PMEs
-- 💰 Fundador do **[GestaoPay](https://gestaopay.online)** — SaaS de Contas a Pagar + Folha de Pagamentos com eSocial, FGTS e 13º
+- 🏢 Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)**: SaaS de cobranças automatizadas via WhatsApp + Stripe para PMEs
+- 💰 Fundador do **[GestaoPay](https://gestaopay.online)**: SaaS de Contas a Pagar + Folha de Pagamentos com eSocial, FGTS e 13º
 - 🤖 Especializado em: **Agentes IA Autônomos**, RAG pipelines, LangChain, Claude AI
 - 🛡️ Área emergente: **ML aplicado à Cibersegurança** · detecção de ameaças em tempo real · Zero Trust
 - 🌱 Foco 2026: **Governança de IA**, compliance para automação autônoma, MLOps em escala
-- 🏅 **Embaixador DIO Global** — Campus Expert Turma 11
+- 🏅 **Embaixador DIO Global**, Campus Expert Turma 11
 - ⚡ Modelos em produção: 92% accuracy · 10k+ predições/dia · ETL 70% mais rápido
 
 ---
@@ -170,13 +170,13 @@ developer = {
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ <a href="https://github.com/Ronbragaglia/code-generator-ai">Code Generator AI</a></h4>
-      <p>Gerador de código com IA generativa — prompts → código funcional</p>
+      <p>Gerador de código com IA generativa: prompts → código funcional</p>
       <img src="https://img.shields.io/github/stars/Ronbragaglia/code-generator-ai?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
       <img src="https://img.shields.io/github/languages/top/Ronbragaglia/code-generator-ai?style=flat-square&color=6366f1" alt="lang"/>
     </td>
     <td width="50%" valign="top">
       <h4>🎙️ <a href="https://github.com/Ronbragaglia/Azure-Voice-Language-Lab">Azure Voice Lab</a></h4>
-      <p>Lab Azure Speech + Language Studio — reconhecimento de fala e NLP</p>
+      <p>Lab Azure Speech + Language Studio: reconhecimento de fala e NLP</p>
       <img src="https://img.shields.io/github/stars/Ronbragaglia/Azure-Voice-Language-Lab?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
       <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Azure-Voice-Language-Lab?style=flat-square&color=6366f1" alt="lang"/>
     </td>
@@ -190,7 +190,7 @@ developer = {
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">Portfólio Marketing</a></h4>
-      <p>Portfólio de Marketing Digital e IA — SEO, campanhas e analytics</p>
+      <p>Portfólio de Marketing Digital e IA: SEO, campanhas e analytics</p>
       <img src="https://img.shields.io/github/stars/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
       <img src="https://img.shields.io/github/languages/top/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1" alt="lang"/>
     </td>
@@ -218,7 +218,7 @@ developer = {
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://wakatime.com/@ronbragaglia">WakaTime Stats</a></h4>
-      <p>Tempo real de coding — métricas de produtividade e linguagens</p>
+      <p>Tempo real de coding: métricas de produtividade e linguagens</p>
       <img src="https://img.shields.io/badge/WakaTime-tracking-000000?style=flat-square&logo=wakatime&logoColor=white" alt="wakatime"/>
     </td>
   </tr>
@@ -254,7 +254,7 @@ developer = {
 - Compliance para automação autônoma
 
 **💻 Full Stack & SaaS**
-- Fundador CobrançaAuto & GestaoPay — SaaS de billing e payroll
+- Fundador CobrançaAuto & GestaoPay, SaaS de billing e payroll
 - SPAs com React / Next.js + APIs Laravel
 - Integração Stripe, WhatsApp (Evolution API)
 - PWA, performance e arquitetura escalável
@@ -269,13 +269,13 @@ developer = {
 
 <div align="center">
 
-**Formação Acadêmica — UNINOVE**
+**Formação Acadêmica | UNINOVE**
 
 [![ADS](https://img.shields.io/badge/UNINOVE-Análise%20e%20Des.%20de%20Sistemas-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
 [![MBA IA/ML](https://img.shields.io/badge/UNINOVE-MBA%20Inteligência%20Artificial%20%26%20ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
 [![Data Science](https://img.shields.io/badge/UNINOVE-Pós%20Data%20Science%20%26%20Analytics-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
 
-**Certificações — DIO & Rocketseat**
+**Certificações | DIO & Rocketseat**
 
 [![DIO](https://img.shields.io/badge/DIO-Cloud%20com%20IA%20%7C%20XP%20Inc.-E84D3E?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me)
 [![DIO](https://img.shields.io/badge/DIO-BairesDev%20ML%20Training-E84D3E?style=for-the-badge&logo=dio&logoColor=white)](https://dio.me)
@@ -298,7 +298,7 @@ developer = {
 
 ---
 
-## ⏱️ WakaTime — Coding Activity
+## ⏱️ WakaTime | Coding Activity
 
 <div align="center">
 
@@ -383,5 +383,5 @@ PHP               0 secs                ░░░░░░░░░░░░░�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1a1040,100:04040a&height=130&section=footer&text=Let's%20build%20something%20great%20together!&fontSize=16&fontColor=c9d1d9&fontAlignY=65&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <sub>Feito com 💙 e muito ☕ por <b>Rone Bragaglia</b> &nbsp;•&nbsp; <i>"Código é poesia escrita em lógica"</i></sub>
+  <sub>Feito com 💙 e muito ☕ por <b>Rone Bragaglia</b> &nbsp;·&nbsp; <i>"Código é poesia escrita em lógica"</i></sub>
 </div>
