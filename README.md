@@ -20,7 +20,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ronbragaglia?style=social)](https://github.com/Ronbragaglia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rone-bragaglia)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ronbragaglia@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/#contact)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=flat-square&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 [![GestaoPay](https://img.shields.io/badge/GestaoPay-01696f?style=flat-square&logo=cash-app&logoColor=white)](https://gestaopay.online)
 [![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=flat-square&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
@@ -338,7 +338,7 @@ No activity tracked
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/ronbragaglia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronbragaglia@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rone-bragaglia)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
