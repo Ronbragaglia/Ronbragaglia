@@ -317,9 +317,12 @@ developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+Markdown   8 mins                ███████████▓░░░░░░░░░░░░░   46.36 %
+JSON       5 mins                ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+Other      3 mins                █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+PHP        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
