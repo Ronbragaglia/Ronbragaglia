@@ -56,7 +56,7 @@ developer = {
 ```
 
 - 🏢 Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)**: SaaS de cobranças automatizadas via WhatsApp + Stripe para PMEs
-- 💰 Fundador do **[GestaoPay](https://gestaopay.online)**: SaaS de Contas a Pagar + Folha de Pagamentos com eSocial, FGTS e 13º
+- 💰 Fundador do **[GestaoPay](https://gestaopay.online)**: SaaS de gestão financeira: contas a pagar, contas a receber, DRE automático e relatórios
 - 🤖 Especializado em: **Agentes IA Autônomos**, RAG pipelines, LangChain, Claude AI
 - 🛡️ Área emergente: **ML aplicado à Cibersegurança** · detecção de ameaças em tempo real · Zero Trust
 - 🌱 Foco 2026: **Governança de IA**, compliance para automação autônoma, MLOps em escala
@@ -212,7 +212,7 @@ developer = {
   <tr>
     <td width="50%" valign="top">
       <h4>💰 <a href="https://gestaopay.online">GestaoPay</a></h4>
-      <p>SaaS de Contas a Pagar + Folha de Pagamentos com eSocial, FGTS e 13º</p>
+      <p>SaaS de gestão financeira: contas a pagar, contas a receber, DRE automático e relatórios</p>
       <img src="https://img.shields.io/badge/status-production-22c55e?style=flat-square" alt="status"/>
       <img src="https://img.shields.io/badge/stack-Laravel%20%2B%20React-6366f1?style=flat-square" alt="stack"/>
     </td>
