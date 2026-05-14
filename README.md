@@ -349,7 +349,7 @@ Docker           3 mins                ▒░░░░░░░░░░░░�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rone-bragaglia)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954092078)
+<!-- WhatsApp badge removed for security (2026-05-14) -->
 [![Portfolio](https://img.shields.io/badge/Portfólio%20IA-04040a?style=for-the-badge&logo=github&logoColor=6366f1)](https://ronbragaglia.github.io/Portfolio/)
 [![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=for-the-badge&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
