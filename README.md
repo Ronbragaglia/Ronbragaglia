@@ -317,15 +317,16 @@ developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 7 mins
+Total Time: 5 hrs 12 mins
 
-Other            33 mins               ████████▒░░░░░░░░░░░░░░░░   33.19 %
-Markdown         29 mins               ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-PHP              24 mins               ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-JSON             6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Git Config       6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-JavaScript       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Blade Template   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+PHP              2 hrs 5 mins          ████████▒░░░░░░░░░░░░░░░░   33.26 %
+Markdown         1 hr 50 mins          ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+Other            1 hr 6 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+JavaScript       43 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+YAML             13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+JSON             7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Git Config       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Docker           3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
