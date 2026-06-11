@@ -10,7 +10,7 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&lines=Transformando+ideias+em+c%C3%B3digo+desde+2009;Full+Stack+%7C+IA+%7C+Automa%C3%A7%C3%A3o+%7C+Cloud;15%2B+anos+%E2%80%A2+50%2B+projetos+%E2%80%A2+10k%2B+commits" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&lines=Transformando+ideias+em+c%C3%B3digo+desde+2009;Full+Stack+%7C+IA+%7C+Automa%C3%A7%C3%A3o+%7C+Cloud;15%2B+anos+%E2%80%A2+50%2B+projetos+%E2%80%A2+700%2B+commits" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -18,12 +18,12 @@
 <!-- Social / Profile Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/Ronbragaglia?style=social)](https://github.com/Ronbragaglia)
 [![GitHub stars](https://img.shields.io/github/stars/Ronbragaglia?style=social)](https://github.com/Ronbragaglia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rone-bragaglia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/#contact)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=flat-square&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
-[![GestaoPay](https://img.shields.io/badge/GestaoPay-01696f?style=flat-square&logo=cash-app&logoColor=white)](https://gestaopay.online)
-[![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=flat-square&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
+[![GestaoPay](https://img.shields.io/badge/GestaoPay-01696f?style=flat-square&logo=cashapp&logoColor=white)](https://gestaopay.online)
+[![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=flat-square&logo=googlechrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/)
 [![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@ronbragaglia)
 
 <br/>
@@ -106,10 +106,6 @@ developer = {
 
 ---
 
-
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -143,8 +139,8 @@ developer = {
     <td width="50%" valign="top">
       <h4>🚀 <a href="https://cobrancaauto.com.br">CobrançaAuto</a></h4>
       <p>SaaS que automatiza cobranças via WhatsApp + Stripe para PMEs</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/Cobranca-auto?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Cobranca-auto?style=flat-square&color=6366f1" alt="lang"/>
+      <img src="https://img.shields.io/badge/status-production-22c55e?style=flat-square" alt="status"/>
+      <img src="https://img.shields.io/badge/stack-Laravel%20%2B%20React-6366f1?style=flat-square" alt="stack"/>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://ronbragaglia.github.io/Portfolio/">Portfólio IA</a></h4>
@@ -155,44 +151,44 @@ developer = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Ronbragaglia/assistente_com-banco">Assistente + Banco</a></h4>
-      <p>Assistente de IA com memória persistente via LangChain + SQL</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/assistente_com-banco?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/assistente_com-banco?style=flat-square&color=6366f1" alt="lang"/>
+      <h4>🤖 <a href="https://github.com/Ronbragaglia/ConversAI">ConversAI</a></h4>
+      <p>Agentes de IA construídos do zero em Python com crewAI</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/ConversAI?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/ConversAI?style=flat-square&color=6366f1" alt="lang"/>
     </td>
     <td width="50%" valign="top">
-      <h4>📄 <a href="https://github.com/Ronbragaglia/DocuGen-AI">DocuGen AI</a></h4>
-      <p>Gerador automático de documentos técnicos com LLMs e templates</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/DocuGen-AI?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/DocuGen-AI?style=flat-square&color=6366f1" alt="lang"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/Ronbragaglia/code-generator-ai">Code Generator AI</a></h4>
-      <p>Gerador de código com IA generativa: prompts → código funcional</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/code-generator-ai?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/code-generator-ai?style=flat-square&color=6366f1" alt="lang"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎙️ <a href="https://github.com/Ronbragaglia/Azure-Voice-Language-Lab">Azure Voice Lab</a></h4>
-      <p>Lab Azure Speech + Language Studio: reconhecimento de fala e NLP</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/Azure-Voice-Language-Lab?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Azure-Voice-Language-Lab?style=flat-square&color=6366f1" alt="lang"/>
+      <h4>🩺 <a href="https://github.com/Ronbragaglia/healthguard-ai">HealthGuard AI</a></h4>
+      <p>Avaliação de risco de saúde com ML: FastAPI + scikit-learn + React</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/healthguard-ai?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/healthguard-ai?style=flat-square&color=6366f1" alt="lang"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔊 <a href="https://github.com/Ronbragaglia/Assistente-de-Voz-Inteligente">Assistente de Voz</a></h4>
-      <p>Assistente de voz com OpenAI GPT + OpenWeatherMap em Python</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/Assistente-de-Voz-Inteligente?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/Assistente-de-Voz-Inteligente?style=flat-square&color=6366f1" alt="lang"/>
+      <h4>📰 <a href="https://github.com/Ronbragaglia/fake-news-detector">Fake News Detector</a></h4>
+      <p>Detector de fake news com Machine Learning + PLN em Python</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/fake-news-detector?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/fake-news-detector?style=flat-square&color=6366f1" alt="lang"/>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://ronbragaglia.github.io/portfolio-marketing-digital./">Portfólio Marketing</a></h4>
+      <h4>⚽ <a href="https://github.com/Ronbragaglia/copa26">Copa26</a></h4>
+      <p>CLI, GitHub Action e dataset aberto da Copa do Mundo FIFA 2026</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/copa26?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/copa26?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👁️ <a href="https://github.com/Ronbragaglia/face-detection">Face Detection</a></h4>
+      <p>Detecção e classificação de faces com processamento de imagens</p>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/face-detection?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/face-detection?style=flat-square&color=6366f1" alt="lang"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://ronbragaglia.github.io/portfolio-marketing-digital/">Portfólio Marketing</a></h4>
       <p>Portfólio de Marketing Digital e IA: SEO, campanhas e analytics</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/portfolio-marketing-digital.?style=flat-square&color=6366f1" alt="lang"/>
+      <img src="https://img.shields.io/github/stars/Ronbragaglia/portfolio-marketing-digital?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/portfolio-marketing-digital?style=flat-square&color=6366f1" alt="lang"/>
     </td>
   </tr>
   <tr>
@@ -223,6 +219,7 @@ developer = {
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🎯 Especialidades
@@ -346,12 +343,12 @@ HTML             10 mins               ▒░░░░░░░░░░░░�
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/#contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rone-bragaglia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
 <!-- WhatsApp badge removed for security (2026-05-14) -->
 [![Portfolio](https://img.shields.io/badge/Portfólio%20IA-04040a?style=for-the-badge&logo=github&logoColor=6366f1)](https://ronbragaglia.github.io/Portfolio/)
-[![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital./)
+[![Portfólio Marketing](https://img.shields.io/badge/Portfólio%20Marketing-00A7C4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=for-the-badge&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 
 <br/>
