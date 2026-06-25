@@ -19,7 +19,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Ronbragaglia?style=social)](https://github.com/Ronbragaglia)
 [![GitHub stars](https://img.shields.io/github/stars/Ronbragaglia?style=social)](https://github.com/Ronbragaglia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ronbragaglia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/#contact)
 [![CobrançaAuto](https://img.shields.io/badge/CobrançaAuto-7C3AED?style=flat-square&logo=stripe&logoColor=white)](https://cobrancaauto.com.br)
 [![GestaoPay](https://img.shields.io/badge/GestaoPay-01696f?style=flat-square&logo=cashapp&logoColor=white)](https://gestaopay.online)
@@ -95,8 +95,8 @@ developer = {
 **Cybersecurity & Robótica**
 
 [![My Skills](https://skillicons.dev/icons?i=kali,bash,linux&theme=dark)](https://skillicons.dev)
-[![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-1a1b3a?style=for-the-badge&logo=security&logoColor=white)]()
-[![ML Security](https://img.shields.io/badge/ML%20Security-Threat%20Detection-dc2626?style=for-the-badge&logo=shield&logoColor=white)]()
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-1a1b3a?style=for-the-badge&logo=security&logoColor=white)
+![ML Security](https://img.shields.io/badge/ML%20Security-Threat%20Detection-dc2626?style=for-the-badge&logo=shield&logoColor=white)
 
 **Banco de Dados**
 
@@ -268,9 +268,9 @@ developer = {
 
 **Formação Acadêmica | UNINOVE**
 
-[![ADS](https://img.shields.io/badge/UNINOVE-Análise%20e%20Des.%20de%20Sistemas-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
-[![MBA IA/ML](https://img.shields.io/badge/UNINOVE-MBA%20Inteligência%20Artificial%20%26%20ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
-[![Data Science](https://img.shields.io/badge/UNINOVE-Pós%20Data%20Science%20%26%20Analytics-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)]()
+![ADS](https://img.shields.io/badge/UNINOVE-Análise%20e%20Des.%20de%20Sistemas-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![MBA IA/ML](https://img.shields.io/badge/UNINOVE-MBA%20Inteligência%20Artificial%20%26%20ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Data Science](https://img.shields.io/badge/UNINOVE-Pós%20Data%20Science%20%26%20Analytics-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 **Certificações | DIO & Rocketseat**
 
@@ -344,7 +344,7 @@ HTML             10 mins               ▒░░░░░░░░░░░░�
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ronbragaglia.github.io/portfolio-marketing-digital/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rone-bragaglia-a6aa60157)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ronbragaglia)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ronbragaglia)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronbragaglia)
 <!-- WhatsApp badge removed for security (2026-05-14) -->
 [![Portfolio](https://img.shields.io/badge/Portfólio%20IA-04040a?style=for-the-badge&logo=github&logoColor=6366f1)](https://ronbragaglia.github.io/Portfolio/)
