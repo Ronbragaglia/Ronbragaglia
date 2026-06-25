@@ -299,12 +299,6 @@ developer = {
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ronbragaglia&theme=github_dark&hide_border=true&bg_color=04040a&title_color=6366f1&text_color=c9d1d9&layout=compact&langs_count=10&custom_title=⏱️+Tempo+de+Código+Esta+Semana)](https://wakatime.com/@ronbragaglia)
-
-<br/>
-
-[![wakatime](https://wakatime.com/badge/user/ronbragaglia.svg?style=for-the-badge)](https://wakatime.com/@ronbragaglia)
-&nbsp;
 [![](https://img.shields.io/badge/WakaTime-Since%20Mar%202026-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@ronbragaglia)
 
 </div>
