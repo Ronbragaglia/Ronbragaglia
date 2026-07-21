@@ -171,10 +171,10 @@ developer = {
       <img src="https://img.shields.io/github/languages/top/Ronbragaglia/fake-news-detector?style=flat-square&color=6366f1" alt="lang"/>
     </td>
     <td width="50%" valign="top">
-      <h4>⚽ <a href="https://github.com/Ronbragaglia/copa26">Copa26</a></h4>
-      <p>CLI, GitHub Action e dataset aberto da Copa do Mundo FIFA 2026</p>
-      <img src="https://img.shields.io/github/stars/Ronbragaglia/copa26?style=flat-square&color=6366f1&logo=github&logoColor=white" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/Ronbragaglia/copa26?style=flat-square&color=6366f1" alt="lang"/>
+      <h4>⚽ Copa26</h4>
+      <p>CLI e dataset TypeScript completo da Copa do Mundo FIFA 2026</p>
+      <img src="https://img.shields.io/badge/TypeScript-CLI%20%2B%20dataset-6366f1?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/repo-privado-6366f1?style=flat-square&logo=github&logoColor=white" alt="repo privado"/>
     </td>
   </tr>
   <tr>
