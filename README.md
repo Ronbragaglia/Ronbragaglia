@@ -38,7 +38,7 @@
 
 ## 🧠 Sobre Mim
 
-**Engenheiro de ML** e Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** e do **[GestaoPay](https://gestaopay.online)**, dois SaaS que resolvem dores reais de PMEs brasileiras: cobranças automatizadas via WhatsApp + Stripe e gestão financeira completa de contas a pagar, contas a receber, DRE automático e relatórios. Com +15 anos em desenvolvimento, construo desde agentes IA autônomos com LangChain e Claude AI até arquiteturas de produção com 10k+ predições/dia. Pós-Graduado em IA/ML pela UNINOVE, **Embaixador DIO Global** e especialista em transformar dados em sistemas que geram resultado real.
+**Engenheiro de ML** e Fundador do **[CobrançaAuto](https://cobrancaauto.com.br)** e do **[GestaoPay](https://gestaopay.online)**, dois SaaS que resolvem dores reais de PMEs brasileiras: cobranças automatizadas via WhatsApp + Stripe e gestão financeira completa de contas a pagar, contas a receber, DRE automático e relatórios. Com +7 anos em desenvolvimento, construo desde agentes IA autônomos com LangChain e Claude AI até arquiteturas de produção com 10k+ predições/dia. Pós-Graduado em IA/ML pela UNINOVE, **Embaixador DIO Global** e especialista em transformar dados em sistemas que geram resultado real.
 
 ```python
 developer = {
@@ -49,7 +49,7 @@ developer = {
     "focus":      ["Agentes IA Autônomos", "MLOps", "Cybersecurity", "SaaS"],
     "in_prod":    "10k+ predições/dia · 92% accuracy · -70% ETL time",
     "projects":   "50+ open source",
-    "commits":    "700+ públicos · +15 anos de dev",
+    "commits":    "700+ públicos · +7 anos de dev",
     "open_to":    "collabs · consultoria · open source 🤝",
     "mindset":    "build → ship → scale 🚀",
 }
